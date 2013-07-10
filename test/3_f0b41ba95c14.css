@@ -1,0 +1,1038 @@
+.m-widget-edit-positions.twilio_client_calls_graph { background: url('/static/dashboard/img/edit_previews/twilio_client_calls_graph.png?ac0f09707f71ae3810c5661670116a31') no-repeat top left; }
+.m-widget-edit-positions.twilio_total_sms_counter { background: url('/static/dashboard/img/edit_previews/twilio_total_sms_counter.png?a64b3177eaa053f555850fcabc330d69') no-repeat top left; }
+.m-widget-edit-positions.twilio_total_sms_graph { background: url('/static/dashboard/img/edit_previews/twilio_total_sms_graph.png?c7bbb6de2b18cd1b96ba11c172105dba') no-repeat top left; }
+.m-widget-edit-positions.twilio_inbound_sms_counter { background: url('/static/dashboard/img/edit_previews/twilio_inbound_sms_counter.png?4d577fd6548172ec790509989acf13dd') no-repeat top left; }
+.m-widget-edit-positions.twilio_inbound_sms_graph { background: url('/static/dashboard/img/edit_previews/twilio_inbound_sms_graph.png?b2236858b808ac2498c0e0485bace606') no-repeat top left; }
+.m-widget-edit-positions.twilio_outbound_sms_counter { background: url('/static/dashboard/img/edit_previews/twilio_outbound_sms_counter.png?1d26862dad437a1f90f0313d046f21dc') no-repeat top left; }
+.m-widget-edit-positions.twilio_outbound_sms_graph { background: url('/static/dashboard/img/edit_previews/twilio_outbound_sms_graph.png?e24823193b53851c065e96489977cac7') no-repeat top left; }
+.m-widget-edit-positions.twilio_calls_by_status_stacked { background: url('/static/dashboard/img/edit_previews/twilio_calls_by_status_stacked.png?09dce912c1205c1052d3b850d042b38b') no-repeat top left; }
+.m-widget-edit-positions.twilio_calls_by_status_bars { background: url('/static/dashboard/img/edit_previews/twilio_calls_by_status_bars.png?49309d48792b887cb7ffdb5b2041131f') no-repeat top left; }
+.m-widget-edit-positions.twilio_calls_price_counter { background: url('/static/dashboard/img/edit_previews/twilio_calls_price_counter.png?fcf5d83ee2b4999455562d499d477226') no-repeat top left; }
+.m-widget-edit-positions.twilio_calls_price_graph { background: url('/static/dashboard/img/edit_previews/twilio_calls_price_graph.png?00424c0542bb4b27162bf4de88d33780') no-repeat top left; }
+.m-widget-edit-positions.twilio_sms_price_counter { background: url('/static/dashboard/img/edit_previews/twilio_sms_price_counter.png?49acc6b010bc2cae67815fef4b01ae23') no-repeat top left; }
+.m-widget-edit-positions.twilio_sms_price_graph { background: url('/static/dashboard/img/edit_previews/twilio_sms_price_graph.png?e17b1a726afffcbf43ca0108369e2767') no-repeat top left; }
+.m-widget-edit-positions.twilio_total_price_counter { background: url('/static/dashboard/img/edit_previews/twilio_total_price_counter.png?09593cd5ff340ee9f6e32613f7b50a51') no-repeat top left; }
+.m-widget-edit-positions.twilio_total_price_graph { background: url('/static/dashboard/img/edit_previews/twilio_total_price_graph.png?bebf75397616fbc4ac498f1eadf592e4') no-repeat top left; }
+.m-widget-edit-positions.twilio_prices_area { background: url('/static/dashboard/img/edit_previews/twilio_prices_area.png?7944d4afeca3bd531f8d7bded77d32fd') no-repeat top left; }
+.m-widget-edit-positions.twilio_prices_boxes { background: url('/static/dashboard/img/edit_previews/twilio_prices_boxes.png?862d4d241967b61bdb883fa09df03943') no-repeat top left; }
+.m-widget-edit-positions.twilio_queue_size_counter { background: url('/static/dashboard/img/edit_previews/twilio_queue_size_counter.png?249a7f6d9aaf97f82b9b977a2c5e34be') no-repeat top left; }
+.m-widget-edit-positions.twilio_queue_average_wait_time_counter { background: url('/static/dashboard/img/edit_previews/twilio_queue_average_wait_time_counter.png?61b2568d9a2d1f6ae92897da7f3d6aca') no-repeat top left; }
+.m-widget-edit-positions.twilio_usage_categories_graph { background: url('/static/dashboard/img/edit_previews/twilio_usage_categories_graph.png?2b240d01dfe0e97f1c162f2acf2887d1') no-repeat top left; }
+.m-widget-edit-positions.youtube_views_counter { background: url('/static/dashboard/img/edit_previews/youtube_views_counter.png?62a64fa7284ba6fadf538ed6c094889e') no-repeat top left; }
+.m-widget-edit-positions.youtube_comments_counter { background: url('/static/dashboard/img/edit_previews/youtube_comments_counter.png?1124534bab39d700d364cff56d3fdea6') no-repeat top left; }
+.m-widget-edit-positions.youtube_shares_counter { background: url('/static/dashboard/img/edit_previews/youtube_shares_counter.png?2d97d66fcebdb3651a77a2604fcda235') no-repeat top left; }
+.m-widget-edit-positions.youtube_subscribers_counter { background: url('/static/dashboard/img/edit_previews/youtube_subscribers_counter.png?d206822f40fdf1607ea766f6db81fcac') no-repeat top left; }
+.m-widget-edit-positions.youtube_attrition_rate_counter { background: url('/static/dashboard/img/edit_previews/youtube_attrition_rate_counter.png?e6c1e30ed3f24d1fcadf5c71e0eea809') no-repeat top left; }
+.m-widget-edit-positions.youtube_views_uniques_graph { background: url('/static/dashboard/img/edit_previews/youtube_views_uniques_graph.png?c49af612a40741f96819c05c7ae04690') no-repeat top left; }
+.m-widget-edit-positions.youtube_lost_gained_subscribers_graph { background: url('/static/dashboard/img/edit_previews/youtube_lost_gained_subscribers_graph.png?0a916de0a8e27390de46ff71178afba4') no-repeat top left; }
+.m-widget-edit-positions.youtube_likes_dislikes_graph { background: url('/static/dashboard/img/edit_previews/youtube_likes_dislikes_graph.png?5b4dd8fe524be8a92f1ef0c81a387cb5') no-repeat top left; }
+.m-widget-edit-positions.youtube_gender_rate_gauge { background: url('/static/dashboard/img/edit_previews/youtube_gender_rate_gauge.png?83b589db8df48eac79f6e102f48ee9be') no-repeat top left; }
+.m-widget-edit-positions.youtube_attrition_rate_gauge { background: url('/static/dashboard/img/edit_previews/youtube_attrition_rate_gauge.png?aa55520b9101d753fd2cf136d7e98740') no-repeat top left; }
+.m-widget-edit-positions.youtube_top_videos_leaderboard { background: url('/static/dashboard/img/edit_previews/youtube_top_videos_leaderboard.png?b0f098a74b61ee1933994b8ac957c88e') no-repeat top left; }
+.m-widget-edit-positions.youtube_top_locations_leaderboard { background: url('/static/dashboard/img/edit_previews/youtube_top_locations_leaderboard.png?3cc039f05c9a44976f0b380b31b12552') no-repeat top left; }
+.m-widget-edit-positions.youtube_demographics_leaderboard { background: url('/static/dashboard/img/edit_previews/youtube_demographics_leaderboard.png?64d7a3aa2d5985c6e9dbbb6039b5eceb') no-repeat top left; }
+.m-widget-edit-positions.youtube_traffic_sources_leaderboard { background: url('/static/dashboard/img/edit_previews/youtube_traffic_sources_leaderboard.png?378f3869ff36566de54ab0e4240fa2ac') no-repeat top left; }
+.m-widget-edit-positions.youtube_playback_location_stacked_leaderboard { background: url('/static/dashboard/img/edit_previews/youtube_playback_location_stacked_leaderboard.png?0771177bc34f9e2c5057fc9bbb9ae47c') no-repeat top left; }
+.m-widget-edit-positions.mixrank_new_active_ads_stacked_graph4_leaderboard { background: url('/static/dashboard/img/edit_previews/mixrank_new_active_ads_stacked_graph4_leaderboard.png?c9d6eda45aee40bcda33a08630a205c9') no-repeat top left; }
+.m-widget-edit-positions.mixrank_new_display_ads_counter { background: url('/static/dashboard/img/edit_previews/mixrank_new_display_ads_counter.png?e3be6b64a8cc125146708399b7b81c61') no-repeat top left; }
+.m-widget-edit-positions.mixrank_new_text_ads_counter { background: url('/static/dashboard/img/edit_previews/mixrank_new_text_ads_counter.png?784f368f11a07fa51b162a5c09fba728') no-repeat top left; }
+.m-widget-edit-positions.mixrank_active_display_ads_counter { background: url('/static/dashboard/img/edit_previews/mixrank_active_display_ads_counter.png?860b46262518f94a40682fed603acf70') no-repeat top left; }
+.m-widget-edit-positions.mixrank_active_text_ads_counter { background: url('/static/dashboard/img/edit_previews/mixrank_active_text_ads_counter.png?d7c28aecc93231d4533b2d7190614544') no-repeat top left; }
+.m-widget-edit-positions.mixrank_gdn_absolute_graph2_leaderboard { background: url('/static/dashboard/img/edit_previews/mixrank_gdn_absolute_graph2_leaderboard.png?76dd002ead94ff2d40f6aef027b39e3c') no-repeat top left; }
+.m-widget-edit-positions.mixrank_active_keywords_counter { background: url('/static/dashboard/img/edit_previews/mixrank_active_keywords_counter.png?5c4e5fb809f2d1e0a3d59f3f85d7078b') no-repeat top left; }
+.m-widget-edit-positions.mixrank_landing_page_leaderboard { background: url('/static/dashboard/img/edit_previews/mixrank_landing_page_leaderboard.png?77509df53d6238f6670ba3d9c91d5c48') no-repeat top left; }
+.m-widget-edit-positions.mixrank_active_publishers_counter { background: url('/static/dashboard/img/edit_previews/mixrank_active_publishers_counter.png?0c3882307306e7dd049fd5c0b0a2e0c7') no-repeat top left; }
+.m-widget-edit-positions.pingdom_check_status { background: url('/static/dashboard/img/edit_previews/pingdom_check_status.png?25cde3a4c853722b9652a6ad13bf6b18') no-repeat top left; }
+.m-widget-edit-positions.pingdom_avg_response_time_counter { background: url('/static/dashboard/img/edit_previews/pingdom_avg_response_time_counter.png?d4eafe774001dfed00fc1cea8100e948') no-repeat top left; }
+.m-widget-edit-positions.pingdom_avg_uptime_gauge { background: url('/static/dashboard/img/edit_previews/pingdom_avg_uptime_gauge.png?d5f3512ba79dc73a708df4321193fd35') no-repeat top left; }
+.m-widget-edit-positions.pingdom_downtime_counter { background: url('/static/dashboard/img/edit_previews/pingdom_downtime_counter.png?282c81ad4230883dd6674d52be71aaca') no-repeat top left; }
+.m-widget-edit-positions.pingdom_daily_avg_response_time_absolute_area_graph { background: url('/static/dashboard/img/edit_previews/pingdom_daily_avg_response_time_absolute_area_graph.png?206d914710aa722ed50065e1be192d45') no-repeat top left; }
+.m-widget-edit-positions.pingdom_daily_avg_uptime_absolute_area_graph { background: url('/static/dashboard/img/edit_previews/pingdom_daily_avg_uptime_absolute_area_graph.png?a53d452aaf77a342b81e506608d43536') no-repeat top left; }
+.m-widget-edit-positions.pingdom_daily_downtime_absolute_area_graph { background: url('/static/dashboard/img/edit_previews/pingdom_daily_downtime_absolute_area_graph.png?b258ee841ba189125f1cce2b4899fab1') no-repeat top left; }
+.m-widget-edit-positions.pingdom_hourly_avg_response_time_absolute_area_graph { background: url('/static/dashboard/img/edit_previews/pingdom_hourly_avg_response_time_absolute_area_graph.png?0f5ffeb3b279f882fe5719c59bc9a990') no-repeat top left; }
+.m-widget-edit-positions.pingdom_hourly_avg_uptime_absolute_area_graph { background: url('/static/dashboard/img/edit_previews/pingdom_hourly_avg_uptime_absolute_area_graph.png?ab5478845c773d2a5db243e95f6549db') no-repeat top left; }
+.m-widget-edit-positions.pingdom_hourly_downtime_absolute_area_graph { background: url('/static/dashboard/img/edit_previews/pingdom_hourly_downtime_absolute_area_graph.png?ba709679bd5a473beee17d67ca255dca') no-repeat top left; }
+.m-widget-edit-positions.pingdom_checks_overview_leaderboard { background: url('/static/dashboard/img/edit_previews/pingdom_checks_overview_leaderboard.png?09e85d654e6e1cbb5a3dc3cc103957ab') no-repeat top left; }
+.m-widget-edit-positions.bitly_link_clicks_counter { background: url('/static/dashboard/img/edit_previews/bitly_link_clicks_counter.png?52f44c4da16f56bf10d656fda2b6c976') no-repeat top left; }
+.m-widget-edit-positions.bitly_link_encoders_counter { background: url('/static/dashboard/img/edit_previews/bitly_link_encoders_counter.png?b38ca9faa06d62150e8a275cf159c905') no-repeat top left; }
+.m-widget-edit-positions.bitly_link_stats_boxes { background: url('/static/dashboard/img/edit_previews/bitly_link_stats_boxes.png?4fec2090a0408488e893d3830836ea6b') no-repeat top left; }
+.m-widget-edit-positions.bitly_link_stats_graph { background: url('/static/dashboard/img/edit_previews/bitly_link_stats_graph.png?3741dc46ddf17b1dd8190be3b4946102') no-repeat top left; }
+.m-widget-edit-positions.bitly_link_locations_trend_leaderboard { background: url('/static/dashboard/img/edit_previews/bitly_link_locations_trend_leaderboard.png?76622a6dc697a77e294884b63de11acb') no-repeat top left; }
+.m-widget-edit-positions.bitly_link_referrers_trend_leaderboard { background: url('/static/dashboard/img/edit_previews/bitly_link_referrers_trend_leaderboard.png?1c22c623ab251f5575f659a812f41e6f') no-repeat top left; }
+.m-widget-edit-positions.bitly_link_referring_domains_trend_leaderboard { background: url('/static/dashboard/img/edit_previews/bitly_link_referring_domains_trend_leaderboard.png?70393c89a0646146d33f6eb90f1e29cd') no-repeat top left; }
+.m-widget-edit-positions.uservoice_open_tickets_counter { background: url('/static/dashboard/img/edit_previews/uservoice_open_tickets_counter.png?9f1395f460fdcb7f2f9dbedfa5dbd6b2') no-repeat top left; }
+.m-widget-edit-positions.uservoice_open_closed_tickets_area_graph { background: url('/static/dashboard/img/edit_previews/uservoice_open_closed_tickets_area_graph.png?f5e3826278c0c2f9753e4a3dba531fe1') no-repeat top left; }
+.m-widget-edit-positions.uservoice_activities_timeline { background: url('/static/dashboard/img/edit_previews/uservoice_activities_timeline.png?81966e7f762291764e1afacb88332e54') no-repeat top left; }
+.m-widget-edit-positions.uservoice_queues_summary_leaderboard { background: url('/static/dashboard/img/edit_previews/uservoice_queues_summary_leaderboard.png?5593f86efbe5169d63864f1f95bce7cf') no-repeat top left; }
+.m-widget-edit-positions.uservoice_top_forum_ideas_leaderboard { background: url('/static/dashboard/img/edit_previews/uservoice_top_forum_ideas_leaderboard.png?9138b1b5402dcc493af39ed423107d76') no-repeat top left; }
+.m-widget-edit-positions.uservoice_forum_suggestions_counter { background: url('/static/dashboard/img/edit_previews/uservoice_forum_suggestions_counter.png?e95baa2c006d47f91b543deda9aa7915') no-repeat top left; }
+.m-widget-edit-positions.uservoice_forums_summary_leaderboard { background: url('/static/dashboard/img/edit_previews/uservoice_forums_summary_leaderboard.png?999bf5f156c6b2b5b0b4a0b099357bde') no-repeat top left; }
+.m-widget-edit-positions.uservoice_open_tickets_in_queues_absolute_graph2 { background: url('/static/dashboard/img/edit_previews/uservoice_open_tickets_in_queues_absolute_graph2.png?009422f3b14ae37275736d69f70b78be') no-repeat top left; }
+.m-widget-edit-positions.uservoice_open_tickets_in_queues_absolute_graph3 { background: url('/static/dashboard/img/edit_previews/uservoice_open_tickets_in_queues_absolute_graph3.png?e38d1a11b38beece08fdab22faad465b') no-repeat top left; }
+.m-widget-edit-positions.uservoice_open_tickets_in_queues_absolute_graph4 { background: url('/static/dashboard/img/edit_previews/uservoice_open_tickets_in_queues_absolute_graph4.png?d81650bee81433cf4f9a1e96618c9945') no-repeat top left; }
+.m-widget-edit-positions.uservoice_open_tickets_in_queues_absolute_graph5 { background: url('/static/dashboard/img/edit_previews/uservoice_open_tickets_in_queues_absolute_graph5.png?27c71baff19ef0d20fce7a643c4ce23b') no-repeat top left; }
+.m-widget-edit-positions.uservoice_open_tickets_in_queues_absolute_graph6 { background: url('/static/dashboard/img/edit_previews/uservoice_open_tickets_in_queues_absolute_graph6.png?ada5234d0e3cf655129bdfa27a292093') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_counter { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_counter.png?cd611edc400570a58041d33d1b2c3d8e') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_gauge { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_gauge.png?e802220bf1577a86b8a989b399e93b57') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_gauges { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_gauges.png?10a9c414c0b6b6836d13157daa1a34b6') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_graph { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_graph.png?4ce45626d08aa3687655580306c0f3cb') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_graph2 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_graph2.png?143d2e3ca6fba431bd6591a2f48c5757') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_graph3 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_graph3.png?a688d8a95c33a8c018efe4a6db17bcc8') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_graph4 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_graph4.png?d1a151303462cf04397e2883cbea153f') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_graph5 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_graph5.png?0daf57a03e8d149dd2587ed37917cc41') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_graph6 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_graph6.png?485c8bf2bc9050329428de9ccc2dc373') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_absolute_graph { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_absolute_graph.png?af4491a16e75c3cc1fa4eb389512417c') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_absolute_graph2 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_absolute_graph2.png?6bb95ced30b2897a1939ed3faf058706') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_absolute_graph3 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_absolute_graph3.png?103eb00887020b2570bff4367d5b30b1') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_absolute_graph4 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_absolute_graph4.png?98ea85b492c085b1c19f854a35f88027') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_absolute_graph5 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_absolute_graph5.png?857841ba7134f3b2d5797498736694e3') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_absolute_graph6 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_absolute_graph6.png?83722939e3bcccb0fe4c6467f2f3b858') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_area_graph { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_area_graph.png?c76a276d3ec3246c6da995cb1af36d97') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_area_graph2 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_area_graph2.png?c04fef563dbb29d2bd092ffd9aa520a0') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_area_graph3 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_area_graph3.png?05eb1f52968262c09639d588470ed1eb') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_area_graph4 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_area_graph4.png?f615c966392febeabdfa63db83d79845') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_absolute_area_graph { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_absolute_area_graph.png?8675f33dd423e2ba200a1e56999387d8') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_absolute_area_graph2 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_absolute_area_graph2.png?3512ee198b72777d9fbfb54e3870d0b4') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_absolute_area_graph3 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_absolute_area_graph3.png?840dff38da97b948270c48affc55dc73') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_absolute_area_graph4 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_absolute_area_graph4.png?05d4afb55f6da13ae3db024d649bd7b7') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_stacked_graph2 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_stacked_graph2.png?87513590e4c10d7d046c05ac19d4eefc') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_stacked_graph3 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_stacked_graph3.png?7fbb3edaadf8d888aea36e301f3eb096') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_stacked_graph4 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_stacked_graph4.png?700d3c9da5c67845c70c46c0d039bbd9') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_stacked_graph5 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_stacked_graph5.png?15870c802e4019452d19940001a5e71a') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_stacked_graph6 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_stacked_graph6.png?761674e9580c8f7181274ea45d6e4527') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_pins { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_pins.png?f9cc7bad90e149bab05cf2f15ff41c36') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_boxes3 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_boxes3.png?a7c2ea02630c8a52785f6384be298328') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_boxes4 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_boxes4.png?210c953365be9f2ad0c050888a3e4da2') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_bars3 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_bars3.png?0b2f908de25ccbc19013676613701e4a') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_bars4 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_bars4.png?f276e22351bddadba82ebaf172270c46') no-repeat top left; }
+.m-widget-edit-positions.googlespreadsheets_cell_bars5 { background: url('/static/dashboard/img/edit_previews/googlespreadsheets_cell_bars5.png?acc94ba8c061835d38f0beb6bc8a2819') no-repeat top left; }
+.m-widget-edit-positions.pipedrive_deals_counter { background: url('/static/dashboard/img/edit_previews/pipedrive_deals_counter.png?f676b0690a7388cc93c5edf047ed3b29') no-repeat top left; }
+.m-widget-edit-positions.pipedrive_pipeline_value_counter { background: url('/static/dashboard/img/edit_previews/pipedrive_pipeline_value_counter.png?cd3e4ba1aeb4980c7ef96daa9ffd2b37') no-repeat top left; }
+.m-widget-edit-positions.pipedrive_pipeline_weighted_value_counter { background: url('/static/dashboard/img/edit_previews/pipedrive_pipeline_weighted_value_counter.png?0f6c0fcd9620707ebc3ab0a6801bef91') no-repeat top left; }
+.m-widget-edit-positions.pipedrive_deals_graph { background: url('/static/dashboard/img/edit_previews/pipedrive_deals_graph.png?b4f66ede2d1773130412ffcf5d3bc65a') no-repeat top left; }
+.m-widget-edit-positions.pipedrive_pipeline_graph { background: url('/static/dashboard/img/edit_previews/pipedrive_pipeline_graph.png?59af6185f6ebad57d5f73640dd5187a7') no-repeat top left; }
+.m-widget-edit-positions.pipedrive_stages_leaderboard { background: url('/static/dashboard/img/edit_previews/pipedrive_stages_leaderboard.png?7957e1913ad6794876d2cd87ef58c6d9') no-repeat top left; }
+
+.m-directory { /* make the modal occupy the entire width, otherwise pink shadows around custom widget categories are being cut by the slider's overflow: hidden */ /* this is being calculated in different places because some inheriters need the values to perform calculations, and less has not accessors anymore */ width: 920px; height: 668px; /* we want all inputs to look the same EXCEPT chozen search */ /* see the comment above */ padding: 20px 0; }
+.m-directory div.pane { width: 805px; }
+.m-directory div.pane > section { /* in height calc consider this element padding, the title height + margin and the submit button */ height: 454px; width: 860px; width: 745px; }
+.m-directory section.pane { /* in height calc consider this element padding, the title height + margin and the submit button */ height: 454px; width: 860px; width: 745px; }
+.m-directory input[type=text]:not(.chzn-input), .m-directory input[type=password]:not(.chzn-input) { width: 725px; height: 25px; padding: 6px 10px; }
+.m-directory input[type=text]:not(.chzn-input)::-webkit-input-placeholder, .m-directory input[type=password]:not(.chzn-input)::-webkit-input-placeholder { color: #d65c94; }
+.m-directory input[type=text]:not(.chzn-input):-moz-placeholder, .m-directory input[type=password]:not(.chzn-input):-moz-placeholder { color: #d65c94; }
+.m-directory input[type=text]:not(.chzn-input).placeholder, .m-directory input[type=password]:not(.chzn-input).placeholder { color: #d65c94; }
+.m-directory div.tip-input { /* won't let inputs override the container top pixels */ width: 725px; height: 37px; padding: 0px 10px; padding: 0px 4px 0px 10px; width: 731px; }
+.m-directory div.tip-input::-webkit-input-placeholder { color: #d65c94; }
+.m-directory div.tip-input:-moz-placeholder { color: #d65c94; }
+.m-directory div.tip-input.placeholder { color: #d65c94; }
+.m-directory div.tip-input input[type=text], .m-directory div.tip-input input[type=password] { width: 745px; height: 29px; padding: 0 0; width: 691px; padding: 0; margin-top: 4px; }
+.m-directory div.tip-input input[type=text]::-webkit-input-placeholder, .m-directory div.tip-input input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+.m-directory div.tip-input input[type=text]:-moz-placeholder, .m-directory div.tip-input input[type=password]:-moz-placeholder { color: #d65c94; }
+.m-directory div.tip-input input[type=text].placeholder, .m-directory div.tip-input input[type=password].placeholder { color: #d65c94; }
+.m-directory div.tip-input input[type=button] { width: 29px; height: 29px; line-height: 29px; margin: 4px 0 0 11px; padding: 0; }
+.m-directory header { min-height: 50px; /* moving the close link inside the hgroup in the header is a bit tricky, but since the h3 message takes the whole width in the developer plan version, it's the only way to keep properly aligned */ }
+.m-directory header hgroup { float: none; }
+.m-directory header hgroup h1 { float: left; padding-bottom: 3px; }
+.m-directory header hgroup h3 { float: left; clear: left; }
+.m-directory header .back { text-transform: uppercase; display: block; clear: both; line-height: 1.3em; font-size: 12px; }
+.m-directory header, .m-directory .filters { /* since the modal has no padding now, give it to every child element */ padding: 0 20px; }
+.m-directory a { -webkit-transition: background-color 0.2s, color 0.2s; -moz-transition: background-color 0.2s, color 0.2s; -o-transition: background-color 0.2s, color 0.2s; transition: background-color 0.2s, color 0.2s; }
+
+.m-directory .filters { height: 42px; margin-top: 20px; }
+.m-directory .filters .field-input { width: 453px; float: left; position: relative; /* match per id, otherwise other generic styles are matched as more specific */ }
+.m-directory .filters .field-input i { padding: 4px 3px 0px; position: absolute; top: 5px; right: 4px; }
+.m-directory .filters .field-input i:before { color: #F2F2E7; }
+.m-directory .filters .field-input input#directory-search { width: 433px; height: 30px; padding: 6px 10px; margin-bottom: 0; }
+.m-directory .filters select { width: 406px; }
+.m-directory .filters .chzn-container { float: left; margin-left: 20px; /* default chosen height */ /* adjust height and the arrow position */ margin-bottom: 0; }
+.m-directory .filters .chzn-container .chzn-single { /* substract border size from height */ height: 40px; line-height: 40px; }
+.m-directory .filters .chzn-container .chzn-single b { background-position: 6px 8.5px; }
+.m-directory .filters .chzn-container .chzn-single-with-drop b { background-position: -13px 8.5px; }
+
+.ie .m-directory .filters .field-input i { top: 4px; }
+.ie .m-directory .filters .field-input i:before { margin-top: 4px; }
+
+.m-directory .other-sections { position: absolute; top: 472px; left: 20px; overflow: hidden; max-width: 473px; }
+.m-directory .other-sections a { float: left; margin-right: 20px; height: 50px; width: 407px; padding: 15px 23px; display: block; background: rgba(255, 255, 255, 0.4); border-radius: 5px; }
+.m-directory .other-sections a strong, .m-directory .other-sections a span { -webkit-transition: color 0.2s; -moz-transition: color 0.2s; -o-transition: color 0.2s; transition: color 0.2s; }
+.m-directory .other-sections a strong { display: block; color: #CC0066; font-size: 21px; line-height: normal; }
+.m-directory .other-sections a span { color: rgba(0, 0, 0, 0.4); font-size: 15px; }
+.m-directory .other-sections a:hover { background-color: #cc0066; }
+.m-directory .other-sections a:hover strong { color: #FFF; }
+.m-directory .other-sections a:hover span { color: rgba(255, 255, 255, 0.5); }
+
+.m-directory .service-description { position: relative; background-color: rgba(242, 242, 231, 0.5); border-radius: 5px; margin: 13px 20px 0; padding: 25px; height: 117px; overflow: hidden; }
+.m-directory .service-description p { color: #96928A; font-size: 15px; max-width: 55%; line-height: normal; max-height: 58px; }
+.m-directory .service-description .serv-logo { display: inline-block; min-height: 40px; position: relative; margin-bottom: 18px; }
+.m-directory .service-description .serv-logo img { position: absolute; bottom: 0; left: 0; max-height: 39px; max-width: 220px; }
+.m-directory .service-description .btn-try { border-radius: 5px; position: absolute; bottom: 20px; right: 20px; max-width: 35%; display: inline-block; padding: 12px 20px; color: #CC0066; background-color: rgba(255, 255, 255, 0.4); font-size: 21px; }
+.m-directory .service-description .btn-try:hover { background-color: #cc0066; color: #FFF; }
+
+.slidster { display: block; overflow: hidden; padding: 0 20px; }
+.slidster .viewport { width: 100%; position: relative; overflow: hidden; }
+.slidster .viewport:after, .slidster .viewport:before { content: ''; top: 15px; height: 100%; position: absolute; z-index: 10; width: 38px; background-repeat: repeat-y; background-position: left top; }
+.slidster .viewport:after { right: 0; background-image: url('/static/dashboard/img/directory/slide_shadow_right.svg?7b4619e0ec63b07b9643b9f2fd5b0c91'); }
+.slidster .viewport:before { left: 0; background-image: url('/static/dashboard/img/directory/slide_shadow_left.svg?ed776fa8650598da0a628d9424be8a9a'); }
+.slidster .viewport > ul { position: relative; top: 0; left: 0; width: 9999em; overflow: hidden; list-style: none; }
+.slidster .viewport > ul.animation { -webkit-transform: translate3d(0, 0, 0); -moz-transform: translate3d(0, 0, 0); -ms-transform: translate3d(0, 0, 0); -o-transform: translate3d(0, 0, 0); transform: translate3d(0, 0, 0); -webkit-transition: -webkit-transform 0.4s ease-in-out; -moz-transition: -moz-transform 0.4s ease-in-out; -o-transition: -o-transform 0.4s ease-in-out; transition: transform 0.4s ease-in-out; }
+.slidster .viewport > ul > li { float: left; margin-right: 20px; width: 217px; border-radius: 5px; }
+.slidster .viewport > ul > li > a { display: block; overflow: hidden; background-color: #F2F2E7; border-radius: 3px; height: 80px; margin-top: 20px; text-align: center; }
+.slidster .viewport > ul > li > a:not(.disabled):hover { background-color: #cc0066 !important; }
+.slidster .viewport > ul > li > a:not(.disabled):hover h4, .slidster .viewport > ul > li > a:not(.disabled):hover strong { color: #fff; }
+.slidster .viewport > ul > li > a:not(.disabled):hover p, .slidster .viewport > ul > li > a:not(.disabled):hover span { color: rgba(255, 255, 255, 0.5); }
+.slidster .viewport > ul > li > a h4 { color: #656053; font-size: 1.25em; padding-bottom: 2px; -webkit-transition: background-image 0.2s, background-color 0.2s, color 0.2s; -moz-transition: background-image 0.2s, background-color 0.2s, color 0.2s; -o-transition: background-image 0.2s, background-color 0.2s, color 0.2s; transition: background-image 0.2s, background-color 0.2s, color 0.2s; }
+.slidster .viewport > ul > li > a p { font-size: 1.1em; line-height: 110%; color: #aba89c; }
+.slidster .viewport > ul > li > a p, .slidster .viewport > ul > li > a strong, .slidster .viewport > ul > li > a span { -webkit-transition: color 0.2s, opacity 0.2s; -moz-transition: color 0.2s, opacity 0.2s; -o-transition: color 0.2s, opacity 0.2s; transition: color 0.2s, opacity 0.2s; }
+.slidster .pager-info { float: right; padding-right: 7px; height: 45px; font-size: 2.58333em; line-height: 1.45161em; }
+.slidster .pager-info .current, .slidster .pager-info .total { display: none; }
+.slidster .controls { overflow: hidden; float: right; }
+.slidster .controls a { margin-left: 10px; overflow: hidden; }
+.slidster .controls a:not(.btn) { display: none; }
+
+.directory-index .slidster:not(.m-latest-widgets) .viewport > ul > li { padding-bottom: 39px; -webkit-box-shadow: 0; box-shadow: 0; }
+.directory-index .slidster:not(.m-latest-widgets) .viewport > ul > li > a { text-align: center; background-color: #FFF; }
+.directory-index .slidster:not(.m-latest-widgets) .viewport > ul > li > a > h4 { margin-top: 2px; padding-bottom: 0; }
+.directory-index .slidster:not(.m-latest-widgets) .viewport > ul > li > a:before { content: ''; display: inline-block; height: 100%; vertical-align: middle; margin-right: -0.25em; }
+.directory-index .slidster:not(.m-latest-widgets) .viewport > ul > li > a .serv-logo { display: inline-block; text-indent: -999em; vertical-align: middle; }
+.directory-index .slidster:not(.m-latest-widgets) .viewport:after, .directory-index .slidster:not(.m-latest-widgets) .viewport:before { max-height: 86%; }
+.directory-index .slidster:not(.m-latest-widgets) .viewport:before, .directory-index .slidster:not(.m-latest-widgets).last-item .viewport:after { display: none; }
+.directory-index .slidster:not(.m-latest-widgets).first-item .viewport:after, .directory-index .slidster:not(.m-latest-widgets).last-item .viewport:before { display: block; }
+
+.service-widgets .slidster, .custom-widgets .slidster { padding: 20px 0 0 0; }
+.service-widgets .slidster .pager-info .current, .service-widgets .slidster .pager-info .total, .custom-widgets .slidster .pager-info .current, .custom-widgets .slidster .pager-info .total { display: inline; }
+.service-widgets .slidster .viewport, .custom-widgets .slidster .viewport { margin-bottom: 3px; }
+.service-widgets .slidster .viewport:after, .service-widgets .slidster .viewport:before, .custom-widgets .slidster .viewport:after, .custom-widgets .slidster .viewport:before { content: none; }
+.service-widgets .slidster .viewport > ul > li, .custom-widgets .slidster .viewport > ul > li { width: 880px; padding: 0 20px; }
+.service-widgets .slidster .viewport > ul > li > a, .custom-widgets .slidster .viewport > ul > li > a { position: relative; margin-top: 0; margin-bottom: 20px; width: 430px; height: 157px; padding: 26px 30px 30px 0; display: inline-block; vertical-align: top; text-align: left; }
+.service-widgets .slidster .viewport > ul > li > a:nth-child(2n + 1), .custom-widgets .slidster .viewport > ul > li > a:nth-child(2n + 1) { margin-right: 20px; }
+.service-widgets .slidster .viewport > ul > li > a p, .custom-widgets .slidster .viewport > ul > li > a p { font-size: 13px; }
+.service-widgets .slidster .viewport > ul > li .images, .custom-widgets .slidster .viewport > ul > li .images { position: relative; z-index: 1; float: left; width: 180px; height: 100%; }
+.service-widgets .slidster .viewport > ul > li .images img:nth-child(1), .custom-widgets .slidster .viewport > ul > li .images img:nth-child(1) { right: 30px; top: -10px; }
+.service-widgets .slidster .viewport > ul > li .images img:nth-child(2), .custom-widgets .slidster .viewport > ul > li .images img:nth-child(2) { right: 55px; top: 10px; }
+.service-widgets .slidster .viewport > ul > li .images img:nth-child(3), .custom-widgets .slidster .viewport > ul > li .images img:nth-child(3) { right: 15px; top: 40px; }
+.service-widgets .slidster .viewport > ul > li .images img:nth-child(4), .custom-widgets .slidster .viewport > ul > li .images img:nth-child(4) { right: 70px; top: 60px; }
+.service-widgets .slidster .viewport > ul > li .images.images-1 img, .custom-widgets .slidster .viewport > ul > li .images.images-1 img { top: 0; right: 40px; }
+.service-widgets .slidster .viewport > ul > li .images img, .custom-widgets .slidster .viewport > ul > li .images img { position: absolute; max-width: 100px; -webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4); box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4); -webkit-transition: opacity 0.2s ease-out; -moz-transition: opacity 0.2s ease-out; -o-transition: opacity 0.2s ease-out; transition: opacity 0.2s ease-out; opacity: 0; }
+
+.custom-widgets .slidster .viewport:after, .custom-widgets .slidster .viewport:before { content: none; }
+.custom-widgets .slidster .viewport > ul > li > a { width: 280px; height: 140px; padding: 24px 100px 27px 20px; margin-right: 20px; }
+.custom-widgets .slidster .viewport > ul > li > a:nth-child(3n + 3) { margin-right: 0; }
+.custom-widgets .slidster .viewport > ul > li > a h4 { padding-top: 0; line-height: 1.5em; }
+.custom-widgets .slidster .viewport > ul > li .custom_numeric { background-image: url('/static/dashboard/img/services/custom_numeric.png?dd1c02957b045a1de484b682e15b2a6f'); background-repeat: no-repeat; }
+.custom-widgets .slidster .viewport > ul > li .custom_numeric.disabled { background-color: #f2f2e7; background-image: url('/static/dashboard/img/upgrade_services/custom_numeric.png'); }
+.custom-widgets .slidster .viewport > ul > li .custom_textual { background-image: url('/static/dashboard/img/services/custom_textual.png?dd43cfb1d8791984efdf7aa84f6df92b'); background-repeat: no-repeat; }
+.custom-widgets .slidster .viewport > ul > li .custom_textual.disabled { background-color: #f2f2e7; background-image: url('/static/dashboard/img/upgrade_services/custom_textual.png'); }
+.custom-widgets .slidster .viewport > ul > li .custom_images { background-image: url('/static/dashboard/img/services/custom_images.png?c0afc617ce99e5480fcc9ab5435afee2'); background-repeat: no-repeat; }
+.custom-widgets .slidster .viewport > ul > li .custom_images.disabled { background-color: #f2f2e7; background-image: url('/static/dashboard/img/upgrade_services/custom_images.png'); }
+.custom-widgets .slidster .viewport > ul > li .custom_numeric, .custom-widgets .slidster .viewport > ul > li .custom_textual, .custom-widgets .slidster .viewport > ul > li .custom_images { background-position: 198px 38px; }
+.custom-widgets .slidster .viewport > ul > li .custom_numeric:hover, .custom-widgets .slidster .viewport > ul > li .custom_textual:hover, .custom-widgets .slidster .viewport > ul > li .custom_images:hover { background-position: 198px -82px; }
+
+.service-widgets { height: 650px; }
+
+.service-widget-detail { height: 620px; }
+
+.service-widgets .slidster .controls { padding-right: 20px; }
+.service-widgets .slidster .viewport > ul > li .serviceboard { position: relative; background-image: url('/static/dashboard/img/directory/small-screen.png?b0e30c8277b839276e756efe07c294c7'); background-position: -53px 23px; background-repeat: no-repeat; padding-left: 183px; }
+.service-widgets .slidster .viewport > ul > li .serviceboard:before { content: ''; background-image: url('/static/dashboard/img/directory/small-screen-bright.svg?e02fd7c3e500ebce1ba68dd045e639c0'); background-position: top right; background-repeat: no-repeat; width: 84px; height: 83px; position: absolute; z-index: 5; top: 30px; left: 67px; }
+.service-widgets .slidster .viewport > ul > li .serviceboard img { width: 195px; height: 107px; position: absolute; z-index: 2; left: -43px; top: 30px; }
+
+.m-directory.custom-widget-detail, .m-directory.service-widget-detail { /* sizes are not calculated but hardcoded to follow original mockups*/ }
+.m-directory.custom-widget-detail .m-widget-kind-icon.twitter_reactions_counter_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.twitter_reactions_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.twitter_search_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.twitter_retweets_counter_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.twitter_retweets_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.facebook_fans_demographics_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.facebook_fans_countries_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.facebook_fans_cities_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.facebook_page_external_referrals_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.analytics_keywords_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.analytics_sources_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.analytics_languages_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.analytics_pages_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.analytics_goal_completed_source_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.analytics_events_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.analytics_search_keywords_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.zendesk_activity_stream_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.desk_interaction_stream_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.gosquared_visits_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.angellist_followers_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.angellist_statuses_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.flickr_photos, .m-directory.custom-widget-detail .m-widget-kind-icon.chartbeat_visits_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.chartbeat_alerts_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.pivotal_project_activity_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.rss_feed_entries_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.googlealerts_feed_entries_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.static_image, .m-directory.custom-widget-detail .m-widget-kind-icon.static_text, .m-directory.custom-widget-detail .m-widget-kind-icon.static_iframe, .m-directory.custom-widget-detail .m-widget-kind-icon.wordpress_comments_timeline_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.github_commits_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.github_watchers_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.github_watchers_counter_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.github_watchers_graph_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.github_forks_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.github_forks_counter_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.github_forks_graph_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.github_issues_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.github_issues_counter_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.github_issues_graph_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.basecamp_project_posts_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.basecamp_project_activity_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.basecamp_project_todolist_todos_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.basecamp_project_todolist_todos_counter_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.basecamp_project_discussions_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.basecamp_project_calendar_events_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.basecamp_calendar_events_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.newrelic_processes_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.teambox_project_tasks_counter_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.teambox_project_conversations_counter_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.teambox_project_tasks_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.teambox_project_conversations_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.teambox_project_activity_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.mixpanel_top_events_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.mixpanel_segmentation_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.recurly_account_activities_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.recurly_transactions_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.instagram_user_feed_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.instagram_user_media_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.instagram_user_media_image, .m-directory.custom-widget-detail .m-widget-kind-icon.instagram_media_search_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.instagram_media_search_image, .m-directory.custom-widget-detail .m-widget-kind-icon.youtube_top_videos_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.youtube_top_locations_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.youtube_demographics_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.youtube_traffic_sources_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.pingdom_outages_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.googlecalendar_events_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.bitly_link_locations_trend_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.bitly_link_referrers_trend_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.bitly_link_referring_domains_trend_leaderboard, .m-directory.custom-widget-detail .m-widget-kind-icon.uservoice_activities_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.pipedrive_activities_timeline, .m-directory.custom-widget-detail .m-widget-kind-icon.pipedrive_last_deals_timeline, .m-directory.custom-widget-detail div.kind ul.kinds li, .m-directory.custom-widget-detail .m-directory.service-widget-detail div.kind ul.kinds li, .m-directory.service-widget-detail div.kind ul.kinds .m-directory.custom-widget-detail li, .m-directory.service-widget-detail .m-widget-kind-icon.twitter_reactions_counter_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.twitter_reactions_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.twitter_search_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.twitter_retweets_counter_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.twitter_retweets_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.facebook_fans_demographics_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.facebook_fans_countries_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.facebook_fans_cities_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.facebook_page_external_referrals_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.analytics_keywords_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.analytics_sources_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.analytics_languages_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.analytics_pages_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.analytics_goal_completed_source_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.analytics_events_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.analytics_search_keywords_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.zendesk_activity_stream_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.desk_interaction_stream_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.gosquared_visits_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.angellist_followers_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.angellist_statuses_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.flickr_photos, .m-directory.service-widget-detail .m-widget-kind-icon.chartbeat_visits_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.chartbeat_alerts_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.pivotal_project_activity_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.rss_feed_entries_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.googlealerts_feed_entries_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.static_image, .m-directory.service-widget-detail .m-widget-kind-icon.static_text, .m-directory.service-widget-detail .m-widget-kind-icon.static_iframe, .m-directory.service-widget-detail .m-widget-kind-icon.wordpress_comments_timeline_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.github_commits_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.github_watchers_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.github_watchers_counter_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.github_watchers_graph_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.github_forks_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.github_forks_counter_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.github_forks_graph_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.github_issues_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.github_issues_counter_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.github_issues_graph_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.basecamp_project_posts_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.basecamp_project_activity_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.basecamp_project_todolist_todos_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.basecamp_project_todolist_todos_counter_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.basecamp_project_discussions_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.basecamp_project_calendar_events_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.basecamp_calendar_events_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.newrelic_processes_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.teambox_project_tasks_counter_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.teambox_project_conversations_counter_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.teambox_project_tasks_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.teambox_project_conversations_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.teambox_project_activity_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.mixpanel_top_events_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.mixpanel_segmentation_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.recurly_account_activities_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.recurly_transactions_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.instagram_user_feed_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.instagram_user_media_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.instagram_user_media_image, .m-directory.service-widget-detail .m-widget-kind-icon.instagram_media_search_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.instagram_media_search_image, .m-directory.service-widget-detail .m-widget-kind-icon.youtube_top_videos_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.youtube_top_locations_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.youtube_demographics_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.youtube_traffic_sources_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.pingdom_outages_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.googlecalendar_events_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.bitly_link_locations_trend_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.bitly_link_referrers_trend_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.bitly_link_referring_domains_trend_leaderboard, .m-directory.service-widget-detail .m-widget-kind-icon.uservoice_activities_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.pipedrive_activities_timeline, .m-directory.service-widget-detail .m-widget-kind-icon.pipedrive_last_deals_timeline, .m-directory.service-widget-detail .m-directory.custom-widget-detail div.kind ul.kinds li, .m-directory.custom-widget-detail div.kind ul.kinds .m-directory.service-widget-detail li, .m-directory.service-widget-detail div.kind ul.kinds li { height: 42px !important; }
+.m-directory.custom-widget-detail .slidster, .m-directory.service-widget-detail .slidster { width: 880px; margin-left: auto; margin-right: auto; padding: 0; }
+.m-directory.custom-widget-detail .slidster .viewport, .m-directory.service-widget-detail .slidster .viewport { margin-bottom: 0; }
+.m-directory.custom-widget-detail .slidster .viewport:after, .m-directory.custom-widget-detail .slidster .viewport:before, .m-directory.service-widget-detail .slidster .viewport:after, .m-directory.service-widget-detail .slidster .viewport:before { content: none; }
+.m-directory.custom-widget-detail .slidster .viewport > ul > li, .m-directory.service-widget-detail .slidster .viewport > ul > li { margin: 0; width: 880px !important; /* the header is not exactly 60px tall, but we don't need to be precise */ height: 565px; }
+.m-directory.custom-widget-detail .slidster .viewport > ul > li:last-child, .m-directory.service-widget-detail .slidster .viewport > ul > li:last-child { padding-right: 0; }
+.m-directory.custom-widget-detail .slidster .controls, .m-directory.service-widget-detail .slidster .controls { overflow: visible; float: none; }
+.m-directory.custom-widget-detail .slidster .controls .prev, .m-directory.custom-widget-detail .slidster .controls .next, .m-directory.service-widget-detail .slidster .controls .prev, .m-directory.service-widget-detail .slidster .controls .next { position: relative; top: -326px; float: left; margin: 0; }
+.m-directory.custom-widget-detail .slidster .controls .next, .m-directory.service-widget-detail .slidster .controls .next { float: right; }
+.m-directory.custom-widget-detail .slidster .pager-info, .m-directory.service-widget-detail .slidster .pager-info { display: none!important; }
+.m-directory.custom-widget-detail div.kind, .m-directory.service-widget-detail div.kind { width: 330px; height: 350px; padding-left: 290px; margin: auto; margin-top: 140px; font-size: 1.25em; color: #999588; }
+.m-directory.custom-widget-detail div.kind h2, .m-directory.custom-widget-detail div.kind h3, .m-directory.service-widget-detail div.kind h2, .m-directory.service-widget-detail div.kind h3 { color: #656053; }
+.m-directory.custom-widget-detail div.kind h2, .m-directory.service-widget-detail div.kind h2 { font-size: 1.8em; }
+.m-directory.custom-widget-detail div.kind p.description, .m-directory.service-widget-detail div.kind p.description { margin: 15px 0; min-height: 80px; line-height: 1.3; }
+.m-directory.custom-widget-detail div.kind p.description.selected, .m-directory.service-widget-detail div.kind p.description.selected { display: block; }
+.m-directory.custom-widget-detail div.kind p.description strong, .m-directory.service-widget-detail div.kind p.description strong { color: #656053; }
+.m-directory.custom-widget-detail div.kind ul.kinds, .m-directory.service-widget-detail div.kind ul.kinds { margin: 10px 0 15px 0; }
+.m-directory.custom-widget-detail div.kind ul.kinds li, .m-directory.service-widget-detail div.kind ul.kinds li { display: inline-block; vertical-align: top; margin: 0 16px 10px 0; }
+.m-directory.custom-widget-detail div.kind ul.kinds li:nth-child(6n), .m-directory.service-widget-detail div.kind ul.kinds li:nth-child(6n) { margin-right: 0; }
+.m-directory.custom-widget-detail div.kind ul.kinds a, .m-directory.service-widget-detail div.kind ul.kinds a { display: block; width: 41px; height: 22px; background-image: url('/static/dashboard/img/sprites/layouts.png?e8d9a3975170e5b4bedc85b1d497e67d'); background-repeat: no-repeat; border-radius: 3px; }
+.m-directory.custom-widget-detail div.kind select, .m-directory.service-widget-detail div.kind select { width: 330px; }
+.m-directory.custom-widget-detail div.kind a.add, .m-directory.service-widget-detail div.kind a.add { width: 100%; height: 46px; line-height: 46px; font-size: 1.8em; }
+.m-directory.custom-widget-detail div.kind a.add.disabled, .m-directory.service-widget-detail div.kind a.add.disabled { opacity: 0.5; }
+
+.m-directory.service-widget-detail .kind.serviceboard { position: relative; margin-left: 30px; margin-right: 30px; padding-left: 0; width: auto; margin-top: 0; padding-top: 440px; background-image: url('/static/dashboard/img/directory/big-screen.png?b2329cb39aae061ea82ab83fbf909553'); background-position: center 20px; background-repeat: no-repeat; }
+.m-directory.service-widget-detail .kind.serviceboard:after { content: ''; position: absolute; top: 22px; right: 167px; width: 180px; height: 253px; background-image: url('/static/dashboard/img/directory/big-screen-bright.svg?2ae41eba57c1d94e1ff6ec1530712269'); }
+.m-directory.service-widget-detail .kind.serviceboard img { position: absolute; left: 50%; top: 37px; margin-left: -222px; }
+.m-directory.service-widget-detail .kind.serviceboard .info { width: 40%; float: left; }
+.m-directory.service-widget-detail .kind.serviceboard .add { margin-top: 47px; width: 45%; float: right; }
+
+.m-latest-widgets { background-color: rgba(101, 97, 84, 0.1); position: absolute; left: 0; bottom: 0; width: 880px; padding: 0 20px; }
+.m-latest-widgets.first-item .viewport:before, .m-latest-widgets.first-item .prev { display: none; }
+.m-latest-widgets.last-item .viewport:after, .m-latest-widgets.last-item .next { display: none; }
+.m-latest-widgets .title { display: block; padding-top: 12px; color: #655F52; text-transform: uppercase; }
+.m-latest-widgets .viewport { padding: 0; margin-bottom: 0; }
+.m-latest-widgets .viewport:before, .m-latest-widgets .viewport:after { width: 80px; top: 0; }
+.m-latest-widgets .viewport:before { background-image: url('/static/dashboard/img/directory/dark_slide_shadow_left.svg?e0e5b9c2ab4505c15417c12499e5ef82'); }
+.m-latest-widgets .viewport:after { background-image: url('/static/dashboard/img/directory/dark_slide_shadow_right.svg?1f2e65ae644b2a633a5b35c89f169a28'); }
+.m-latest-widgets .viewport > ul { padding-top: 12px; padding-bottom: 20px; }
+.m-latest-widgets .viewport ul > li { width: 235px; height: 80px; background-color: transparent; border-radius: 4px; padding-bottom: 0!important; background-color: #FFF; overflow: hidden; -webkit-transition: background-color 0.2s; -moz-transition: background-color 0.2s; -o-transition: background-color 0.2s; transition: background-color 0.2s; }
+.m-latest-widgets .viewport ul > li:hover { background-color: #cc0066; }
+.m-latest-widgets .viewport ul > li a { margin: 0; padding: 10px 10px 0 80px; height: 80px; overflow: visible; text-align: left; border-bottom: 10px solid transparent; background-size: 60px; background-color: transparent!important; }
+.m-latest-widgets .viewport ul > li a.custom { color: #cc0066; -webkit-box-shadow: 0 0 10px 0 fade(#cc0066, 35%); box-shadow: 0 0 10px 0 fade(#cc0066, 35%); }
+.m-latest-widgets .viewport ul > li a.custom:hover { background-position: 10px -110px; }
+.m-latest-widgets .viewport ul > li a.custom h4 { color: #cc0066; }
+.m-latest-widgets .viewport ul > li a strong, .m-latest-widgets .viewport ul > li a span { display: block; }
+.m-latest-widgets .viewport ul > li a strong { color: #655F52; font-size: 1em; margin-bottom: 3px; }
+.m-latest-widgets .viewport ul > li a span { color: rgba(101, 95, 82, 0.5); font-size: 1em; }
+.m-latest-widgets .disabled { opacity: 0.5; }
+.m-latest-widgets .controls { position: relative; padding: 0; width: 100%; overflow: visible; }
+.m-latest-widgets .controls .prev, .m-latest-widgets .controls .next { position: absolute; top: -83px; margin: 0; z-index: 10; }
+.m-latest-widgets .controls .prev { left: 0; }
+.m-latest-widgets .controls .next { right: 0; }
+
+#upgrade-required, #trial-expired, #subscription-expired { /* this is being calculated in different places because some inheriters need the values to perform calculations, and less has not accessors anymore */ width: 760px; height: 420px; /* we want all inputs to look the same EXCEPT chozen search */ padding: 15px 20px; color: #999588; }
+#upgrade-required div.pane, #trial-expired div.pane, #subscription-expired div.pane { width: 645px; }
+#upgrade-required div.pane > section, #trial-expired div.pane > section, #subscription-expired div.pane > section { /* in height calc consider this element padding, the title height + margin and the submit button */ height: 206px; width: 700px; width: 585px; }
+#upgrade-required section.pane, #trial-expired section.pane, #subscription-expired section.pane { /* in height calc consider this element padding, the title height + margin and the submit button */ height: 206px; width: 700px; width: 585px; }
+#upgrade-required input[type=text]:not(.chzn-input), #upgrade-required input[type=password]:not(.chzn-input), #trial-expired input[type=text]:not(.chzn-input), #trial-expired input[type=password]:not(.chzn-input), #subscription-expired input[type=text]:not(.chzn-input), #subscription-expired input[type=password]:not(.chzn-input) { width: 565px; height: 25px; padding: 6px 10px; }
+#upgrade-required input[type=text]:not(.chzn-input)::-webkit-input-placeholder, #upgrade-required input[type=password]:not(.chzn-input)::-webkit-input-placeholder, #trial-expired input[type=text]:not(.chzn-input)::-webkit-input-placeholder, #trial-expired input[type=password]:not(.chzn-input)::-webkit-input-placeholder, #subscription-expired input[type=text]:not(.chzn-input)::-webkit-input-placeholder, #subscription-expired input[type=password]:not(.chzn-input)::-webkit-input-placeholder { color: #d65c94; }
+#upgrade-required input[type=text]:not(.chzn-input):-moz-placeholder, #upgrade-required input[type=password]:not(.chzn-input):-moz-placeholder, #trial-expired input[type=text]:not(.chzn-input):-moz-placeholder, #trial-expired input[type=password]:not(.chzn-input):-moz-placeholder, #subscription-expired input[type=text]:not(.chzn-input):-moz-placeholder, #subscription-expired input[type=password]:not(.chzn-input):-moz-placeholder { color: #d65c94; }
+#upgrade-required input[type=text]:not(.chzn-input).placeholder, #upgrade-required input[type=password]:not(.chzn-input).placeholder, #trial-expired input[type=text]:not(.chzn-input).placeholder, #trial-expired input[type=password]:not(.chzn-input).placeholder, #subscription-expired input[type=text]:not(.chzn-input).placeholder, #subscription-expired input[type=password]:not(.chzn-input).placeholder { color: #d65c94; }
+#upgrade-required div.tip-input, #trial-expired div.tip-input, #subscription-expired div.tip-input { /* won't let inputs override the container top pixels */ width: 565px; height: 37px; padding: 0px 10px; padding: 0px 4px 0px 10px; width: 571px; }
+#upgrade-required div.tip-input::-webkit-input-placeholder, #trial-expired div.tip-input::-webkit-input-placeholder, #subscription-expired div.tip-input::-webkit-input-placeholder { color: #d65c94; }
+#upgrade-required div.tip-input:-moz-placeholder, #trial-expired div.tip-input:-moz-placeholder, #subscription-expired div.tip-input:-moz-placeholder { color: #d65c94; }
+#upgrade-required div.tip-input.placeholder, #trial-expired div.tip-input.placeholder, #subscription-expired div.tip-input.placeholder { color: #d65c94; }
+#upgrade-required div.tip-input input[type=text], #upgrade-required div.tip-input input[type=password], #trial-expired div.tip-input input[type=text], #trial-expired div.tip-input input[type=password], #subscription-expired div.tip-input input[type=text], #subscription-expired div.tip-input input[type=password] { width: 585px; height: 29px; padding: 0 0; width: 531px; padding: 0; margin-top: 4px; }
+#upgrade-required div.tip-input input[type=text]::-webkit-input-placeholder, #upgrade-required div.tip-input input[type=password]::-webkit-input-placeholder, #trial-expired div.tip-input input[type=text]::-webkit-input-placeholder, #trial-expired div.tip-input input[type=password]::-webkit-input-placeholder, #subscription-expired div.tip-input input[type=text]::-webkit-input-placeholder, #subscription-expired div.tip-input input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+#upgrade-required div.tip-input input[type=text]:-moz-placeholder, #upgrade-required div.tip-input input[type=password]:-moz-placeholder, #trial-expired div.tip-input input[type=text]:-moz-placeholder, #trial-expired div.tip-input input[type=password]:-moz-placeholder, #subscription-expired div.tip-input input[type=text]:-moz-placeholder, #subscription-expired div.tip-input input[type=password]:-moz-placeholder { color: #d65c94; }
+#upgrade-required div.tip-input input[type=text].placeholder, #upgrade-required div.tip-input input[type=password].placeholder, #trial-expired div.tip-input input[type=text].placeholder, #trial-expired div.tip-input input[type=password].placeholder, #subscription-expired div.tip-input input[type=text].placeholder, #subscription-expired div.tip-input input[type=password].placeholder { color: #d65c94; }
+#upgrade-required div.tip-input input[type=button], #trial-expired div.tip-input input[type=button], #subscription-expired div.tip-input input[type=button] { width: 29px; height: 29px; line-height: 29px; margin: 4px 0 0 11px; padding: 0; }
+#upgrade-required .back, #trial-expired .back, #subscription-expired .back { display: block; clear: both; margin-bottom: 70px; font-size: 1.3em; }
+#upgrade-required p, #trial-expired p, #subscription-expired p { margin-bottom: 20px; line-height: 1.5; font-size: 1.5em; }
+
+#dashboard-preferences { /* this is being calculated in different places because some inheriters need the values to perform calculations, and less has not accessors anymore */ width: 765px; height: 490px; /* we want all inputs to look the same EXCEPT chozen search */ }
+#dashboard-preferences div.pane { width: 650px; }
+#dashboard-preferences div.pane > section { /* in height calc consider this element padding, the title height + margin and the submit button */ height: 276px; width: 705px; width: 590px; }
+#dashboard-preferences section.pane { /* in height calc consider this element padding, the title height + margin and the submit button */ height: 276px; width: 705px; width: 590px; }
+#dashboard-preferences input[type=text]:not(.chzn-input), #dashboard-preferences input[type=password]:not(.chzn-input) { width: 570px; height: 25px; padding: 6px 10px; }
+#dashboard-preferences input[type=text]:not(.chzn-input)::-webkit-input-placeholder, #dashboard-preferences input[type=password]:not(.chzn-input)::-webkit-input-placeholder { color: #d65c94; }
+#dashboard-preferences input[type=text]:not(.chzn-input):-moz-placeholder, #dashboard-preferences input[type=password]:not(.chzn-input):-moz-placeholder { color: #d65c94; }
+#dashboard-preferences input[type=text]:not(.chzn-input).placeholder, #dashboard-preferences input[type=password]:not(.chzn-input).placeholder { color: #d65c94; }
+#dashboard-preferences div.tip-input { /* won't let inputs override the container top pixels */ width: 570px; height: 37px; padding: 0px 10px; padding: 0px 4px 0px 10px; width: 576px; }
+#dashboard-preferences div.tip-input::-webkit-input-placeholder { color: #d65c94; }
+#dashboard-preferences div.tip-input:-moz-placeholder { color: #d65c94; }
+#dashboard-preferences div.tip-input.placeholder { color: #d65c94; }
+#dashboard-preferences div.tip-input input[type=text], #dashboard-preferences div.tip-input input[type=password] { width: 590px; height: 29px; padding: 0 0; width: 536px; padding: 0; margin-top: 4px; }
+#dashboard-preferences div.tip-input input[type=text]::-webkit-input-placeholder, #dashboard-preferences div.tip-input input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+#dashboard-preferences div.tip-input input[type=text]:-moz-placeholder, #dashboard-preferences div.tip-input input[type=password]:-moz-placeholder { color: #d65c94; }
+#dashboard-preferences div.tip-input input[type=text].placeholder, #dashboard-preferences div.tip-input input[type=password].placeholder { color: #d65c94; }
+#dashboard-preferences div.tip-input input[type=button] { width: 29px; height: 29px; line-height: 29px; margin: 4px 0 0 11px; padding: 0; }
+#dashboard-preferences header { position: relative; }
+#dashboard-preferences header .confirmation { max-height: 45px; }
+#dashboard-preferences header .title { height: 44px; width: 380px; float: left; margin-right: 15px; text-transform: none; overflow: hidden; -webkit-transition: width 0.4s ease; -moz-transition: width 0.4s ease; -o-transition: width 0.4s ease; transition: width 0.4s ease; }
+#dashboard-preferences header .title h1 { margin: 6px 10px; font-size: 2em; line-height: 32px; color: #656053; }
+#dashboard-preferences header .title fieldset { margin: 4px; display: none; overflow: hidden; position: relative; }
+#dashboard-preferences header .title fieldset .field-label { width: 368px; height: 24px; padding: 6px 10px; }
+#dashboard-preferences header .title fieldset .field-label::-webkit-input-placeholder { color: #d65c94; }
+#dashboard-preferences header .title fieldset .field-label:-moz-placeholder { color: #d65c94; }
+#dashboard-preferences header .title fieldset .field-label.placeholder { color: #d65c94; }
+#dashboard-preferences header .title fieldset .save { width: 100px; height: 36px; font-size: 1.5em; position: absolute; top: 0; right: 0; }
+#dashboard-preferences header .title fieldset .save.disabled { background: url('/static/dashboard/img/ajax-loader-small.gif?b94116f633442a9c42e7d212ba639e64') no-repeat 50% 50%; }
+#dashboard-preferences header .rename { float: left; margin-right: 15px; }
+#dashboard-preferences header .delete { /* extra 2px width to fix ie pushing text to new line */ position: absolute; left: 520px; z-index: 1; }
+#dashboard-preferences header.new .title { width: 500px; }
+#dashboard-preferences header.new .title h1 { display: none; }
+#dashboard-preferences header.new .title fieldset { display: block; }
+#dashboard-preferences header.new .rename { display: none; }
+#dashboard-preferences header.new .delete { display: none; }
+#dashboard-preferences .pane { height: 371px !important; }
+#dashboard-preferences .backgrounds { /* the thumbnail border is used as margin between image and caption too */ }
+#dashboard-preferences .backgrounds li { float: left; margin-left: 76px; /* to be used once we have enough backgrounds to fill 4 rows */ /*margin-bottom: floor(($section-height - ($items-per-column * $item-height)) / ($items-per-column - 1));*/ margin-bottom: 20px; }
+#dashboard-preferences .backgrounds li:nth-of-type(4n + 1) { margin-left: 0; }
+#dashboard-preferences .backgrounds li.custom { position: relative; }
+#dashboard-preferences .backgrounds li.custom div.label { cursor: pointer; }
+#dashboard-preferences .backgrounds li.custom div.label label { color: #cc0066; cursor: pointer; }
+#dashboard-preferences .backgrounds li div.background { width: 80px; height: 50px; margin-bottom: 5px; border: 5px solid #d6d5c9; -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3); box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3); }
+#dashboard-preferences .backgrounds li div.background.custom { position: relative; overflow: hidden; -moz-background-size: "contain"; -o-background-size: "contain"; -webkit-background-size: "contain"; background-size: "contain"; }
+#dashboard-preferences .backgrounds li div.background .upload-percent, #dashboard-preferences .backgrounds li div.background .upload-bar, #dashboard-preferences .backgrounds li div.background .loading { position: absolute; width: 100%; height: 100%; left: 0; }
+#dashboard-preferences .backgrounds li div.background .upload-percent { z-index: 4; height: 100%; top: 0; line-height: 52px; color: #8F8B7E; font-weight: bold; text-align: center; }
+#dashboard-preferences .backgrounds li div.background .upload-bar { z-index: 3; bottom: 0; height: 0; background: #C2C2B9; -webkit-transition: height 0.2s ease; -moz-transition: height 0.2s ease; -o-transition: height 0.2s ease; transition: height 0.2s ease; }
+#dashboard-preferences .backgrounds li div.background .placeholder { position: relative; margin-top: 13px; display: block; color: #8F8B7E!important; }
+#dashboard-preferences .backgrounds li div.background .loading { z-index: 4; top: 0; height: 100%; display: none; background: url('/static/dashboard/img/light-ajax-loader.gif?6ab81b58a4471f5ff309dfadc397b34b') center no-repeat; }
+#dashboard-preferences .backgrounds li div.error { height: 60px; }
+#dashboard-preferences .backgrounds li div.label { width: 90px; height: 25px; text-align: center; }
+#dashboard-preferences .backgrounds li div.label > .file { position: absolute; left: 0; z-index: 7; cursor: pointer; }
+#dashboard-preferences .backgrounds li div.label > .file input { background: transparent; opacity: 0; margin-left: -2000px; }
+#dashboard-preferences .backgrounds li a { display: block; width: 90px; height: 90px; text-align: center; color: #999588; cursor: pointer; }
+#dashboard-preferences .backgrounds li:not(.custom) a:hover, #dashboard-preferences .backgrounds li:not(.custom) a.selected { color: #cc0066; }
+#dashboard-preferences .backgrounds li:not(.custom) a:hover div.background, #dashboard-preferences .backgrounds li:not(.custom) a.selected div.background { border-color: #cc0066; }
+#dashboard-preferences .backgrounds li.custom div.background:hover, #dashboard-preferences .backgrounds li.custom .selected div.background { border-color: #cc0066; }
+#dashboard-preferences .access-tokens fieldset input[type=text], #dashboard-preferences .access-tokens fieldset input[type=password] { float: left; /* 2 fields in line, so substract the padding and separation of both in the calculations */ width: 215px; margin-right: 10px; }
+#dashboard-preferences .access-tokens fieldset input[type=button].disabled { background: url('/static/dashboard/img/ajax-loader-small.gif?b94116f633442a9c42e7d212ba639e64') no-repeat 50% 50%; }
+#dashboard-preferences .access-tokens fieldset .create { float: left; height: 36px; width: 100px; padding-top: 6px; }
+#dashboard-preferences .access-tokens ul { height: 265px; }
+#dashboard-preferences .access-tokens ul li { height: 35px; padding: 5px; margin-bottom: 10px; }
+#dashboard-preferences .access-tokens ul li { padding-left: 10px; position: relative; }
+#dashboard-preferences .access-tokens ul li a.link { display: block; float: left; color: #656053; }
+#dashboard-preferences .access-tokens ul li a.link:hover { color: #cc0066; }
+#dashboard-preferences .access-tokens ul li a.link.protected .icon-lock { margin-top: -4px; margin-left: 5px; vertical-align: middle; line-height: 0; font-size: 16px; }
+#dashboard-preferences .access-tokens ul li a.link .description { margin-top: 0; line-height: 35px; }
+#dashboard-preferences .access-tokens ul .token-button { display: block; background-color: #f2f2e7; color: #aba89c; font-size: 12px; text-transform: uppercase; padding: 3px; /* IMPORTANT!  If you change the width or height of the buttons, you have to also change the values hardcoded in access_token.backbone.js, in AccessTokenView (and remember to add 6 pixels for padding) */ width: 86px; height: 28px; line-height: 28px; border-radius: 5px; }
+#dashboard-preferences .access-tokens ul .token-button:before { content: ''; float: left; width: 27px; height: 27px; margin-right: 10px; background: url('/static/dashboard/img/sprites/icons-tmp.png?f63bf331c783716a5c431c380e752d20') no-repeat; }
+#dashboard-preferences .access-tokens ul .token-button:hover { color: #cc0066; }
+#dashboard-preferences .access-tokens ul .copy { float: right; margin-right: 5px; height: 34px; width: 88px; position: relative; }
+#dashboard-preferences .access-tokens ul .copy .zeroclipboard-container { position: absolute; left: 0; top: 0; }
+#dashboard-preferences .access-tokens ul .copy .zeroclipboard-container > div { left: 0 !important; top: 0 !important; }
+#dashboard-preferences .access-tokens ul .delete { float: right; }
+
+.moz #dashboard-preferences .access-tokens fieldset .create { padding-bottom: 8px; }
+
+.moz #dashboard-preferences .backgrounds li div.label > .file input { margin-left: 0; }
+
+article.service-board-setup { /* this is being calculated in different places because some inheriters need the values to perform calculations, and less has not accessors anymore */ width: 597px; height: 295px; /* we want all inputs to look the same EXCEPT chozen search */ height: auto; min-height: 295px; overflow: visible; /* Zendesk */ /* Twilio */ }
+article.service-board-setup div.pane { width: 482px; }
+article.service-board-setup div.pane > section { /* in height calc consider this element padding, the title height + margin and the submit button */ height: 81px; width: 537px; width: 422px; }
+article.service-board-setup section.pane { /* in height calc consider this element padding, the title height + margin and the submit button */ height: 81px; width: 537px; width: 422px; }
+article.service-board-setup input[type=text]:not(.chzn-input), article.service-board-setup input[type=password]:not(.chzn-input) { width: 402px; height: 24px; padding: 6px 10px; }
+article.service-board-setup input[type=text]:not(.chzn-input)::-webkit-input-placeholder, article.service-board-setup input[type=password]:not(.chzn-input)::-webkit-input-placeholder { color: #d65c94; }
+article.service-board-setup input[type=text]:not(.chzn-input):-moz-placeholder, article.service-board-setup input[type=password]:not(.chzn-input):-moz-placeholder { color: #d65c94; }
+article.service-board-setup input[type=text]:not(.chzn-input).placeholder, article.service-board-setup input[type=password]:not(.chzn-input).placeholder { color: #d65c94; }
+article.service-board-setup div.tip-input { /* won't let inputs override the container top pixels */ width: 402px; height: 36px; padding: 0px 10px; padding: 0px 4px 0px 10px; width: 408px; }
+article.service-board-setup div.tip-input::-webkit-input-placeholder { color: #d65c94; }
+article.service-board-setup div.tip-input:-moz-placeholder { color: #d65c94; }
+article.service-board-setup div.tip-input.placeholder { color: #d65c94; }
+article.service-board-setup div.tip-input input[type=text], article.service-board-setup div.tip-input input[type=password] { width: 422px; height: 28px; padding: 0 0; width: 368px; padding: 0; margin-top: 4px; }
+article.service-board-setup div.tip-input input[type=text]::-webkit-input-placeholder, article.service-board-setup div.tip-input input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+article.service-board-setup div.tip-input input[type=text]:-moz-placeholder, article.service-board-setup div.tip-input input[type=password]:-moz-placeholder { color: #d65c94; }
+article.service-board-setup div.tip-input input[type=text].placeholder, article.service-board-setup div.tip-input input[type=password].placeholder { color: #d65c94; }
+article.service-board-setup div.tip-input input[type=button] { width: 29px; height: 29px; line-height: 29px; margin: 4px 0 0 11px; padding: 0; }
+article.service-board-setup header { min-height: 0; overflow: hidden; }
+article.service-board-setup section { padding: 17px; padding-top: -3px; }
+article.service-board-setup legend { position: relative; padding-bottom: 17px; font-size: 1.1em; color: #656053; text-transform: uppercase; }
+article.service-board-setup div.tip-input { /* won't let inputs override the container top pixels */ width: 388px; height: 43px; padding: 0px 10px; padding: 0px 4px 0px 10px; width: 394px; }
+article.service-board-setup div.tip-input::-webkit-input-placeholder { color: #d65c94; }
+article.service-board-setup div.tip-input:-moz-placeholder { color: #d65c94; }
+article.service-board-setup div.tip-input.placeholder { color: #d65c94; }
+article.service-board-setup div.tip-input input[type=text], article.service-board-setup div.tip-input input[type=password] { width: 408px; height: 35px; padding: 0 0; width: 354px; padding: 0; margin-top: 4px; }
+article.service-board-setup div.tip-input input[type=text]::-webkit-input-placeholder, article.service-board-setup div.tip-input input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+article.service-board-setup div.tip-input input[type=text]:-moz-placeholder, article.service-board-setup div.tip-input input[type=password]:-moz-placeholder { color: #d65c94; }
+article.service-board-setup div.tip-input input[type=text].placeholder, article.service-board-setup div.tip-input input[type=password].placeholder { color: #d65c94; }
+article.service-board-setup div.tip-input input[type=button] { width: 29px; height: 29px; line-height: 29px; margin: 4px 0 0 11px; padding: 0; }
+article.service-board-setup div.tip-input input[type=button] { margin: 7px 3px 0 0; }
+article.service-board-setup div.tip-input input.error { font-size: 0.65em !important; }
+article.service-board-setup input[type='text'].field-label { width: 388px; height: 31px; padding: 6px 10px; margin-bottom: 0; }
+article.service-board-setup input[type='text'].field-label::-webkit-input-placeholder { color: #d65c94; }
+article.service-board-setup input[type='text'].field-label:-moz-placeholder { color: #d65c94; }
+article.service-board-setup input[type='text'].field-label.placeholder { color: #d65c94; }
+article.service-board-setup input.error { font-size: 1.2em !important; }
+article.service-board-setup select { width: 408px; }
+article.service-board-setup .chzn-container { /* default chosen height */ /* adjust height and the arrow position */ }
+article.service-board-setup .chzn-container .chzn-single { /* substract border size from height */ height: 41px; line-height: 41px; }
+article.service-board-setup .chzn-container .chzn-single b { background-position: 6px 9px; }
+article.service-board-setup .chzn-container .chzn-single-with-drop b { background-position: -13px 9px; }
+article.service-board-setup input[type='button'] { width: 145px; height: 96px; float: right; font-size: 2.1em; text-transform: lowercase; }
+article.service-board-setup input[type='button'].disabled { background-image: url('/static/dashboard/img/ajax-loader.gif?e564737e52c78a3a9bbfa237746722ee'); background-repeat: no-repeat; background-position: 50% 50%; }
+article.service-board-setup .logo { height: 46px; margin-bottom: 20px; }
+article.service-board-setup .description { width: 408px; margin-bottom: 30px; color: #999588; font-size: 1.25em; }
+article.service-board-setup .services li { position: relative; display: inline-block; vertical-align: top; margin: 10px 10px 0 0; font-size: 1.1em; text-align: center; cursor: pointer; border-radius: 5px; -webkit-transition: background-color 0.2s ease, background-image 0.2s ease, color 0.2s ease; -moz-transition: background-color 0.2s ease, background-image 0.2s ease, color 0.2s ease; -o-transition: background-color 0.2s ease, background-image 0.2s ease, color 0.2s ease; transition: background-color 0.2s ease, background-image 0.2s ease, color 0.2s ease; }
+article.service-board-setup .services li, article.service-board-setup .services li a { width: 181px; height: 96px; }
+article.service-board-setup .services li:nth-of-type(-n+3) { margin-top: 0; }
+article.service-board-setup .services li:nth-of-type(3n) { margin-right: 0; }
+article.service-board-setup .services a.new i:before { font-size: 5em; line-height: 1em; }
+article.service-board-setup .services a span { line-height: normal; }
+article.service-board-setup .credentials { display: none; }
+article.service-board-setup .credentials fieldset { float: left; position: relative; }
+article.service-board-setup .setup { display: none; }
+article.service-board-setup.zendesk input[type='text'].field-auth_user { width: 218px; height: 31px; padding: 6px 10px; }
+article.service-board-setup.zendesk input[type='text'].field-auth_user::-webkit-input-placeholder { color: #d65c94; }
+article.service-board-setup.zendesk input[type='text'].field-auth_user:-moz-placeholder { color: #d65c94; }
+article.service-board-setup.zendesk input[type='text'].field-auth_user.placeholder { color: #d65c94; }
+article.service-board-setup.zendesk input[type='password'].field-auth_password { width: 140px; height: 31px; padding: 6px 10px; position: absolute; top: 0; right: 0; }
+article.service-board-setup.zendesk input[type='password'].field-auth_password::-webkit-input-placeholder { color: #d65c94; }
+article.service-board-setup.zendesk input[type='password'].field-auth_password:-moz-placeholder { color: #d65c94; }
+article.service-board-setup.zendesk input[type='password'].field-auth_password.placeholder { color: #d65c94; }
+article.service-board-setup.zendesk .tip-auth_domain-container { margin-bottom: 0; }
+article.service-board-setup.twilio { /* queue should be selectable, but let's just start with the first one in the list selected by default */ }
+article.service-board-setup.twilio .connect { width: 100%; }
+article.service-board-setup.twilio .loading, article.service-board-setup.twilio .failure { display: none; }
+article.service-board-setup.twilio .failure { -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); padding: 10px 10px; }
+article.service-board-setup.twilio .failure h2 { font-size: 1.725em; }
+article.service-board-setup.twilio .failure p { font-size: 1.5em; }
+article.service-board-setup.twilio div.tip-input.tip-auth_password-container { margin-bottom: 0; }
+article.service-board-setup.twilio .field-queue + .chzn-container { display: none; }
+
+#account-preferences { /* this is being calculated in different places because some inheriters need the values to perform calculations, and less has not accessors anymore */ width: 840px; height: 625px; /* we want all inputs to look the same EXCEPT chozen search */ /* temporary tab, Vostok should properly design it */ }
+#account-preferences div.pane { width: 725px; }
+#account-preferences div.pane > section { /* in height calc consider this element padding, the title height + margin and the submit button */ height: 411px; width: 780px; width: 665px; }
+#account-preferences section.pane { /* in height calc consider this element padding, the title height + margin and the submit button */ height: 411px; width: 780px; width: 665px; }
+#account-preferences input[type=text]:not(.chzn-input), #account-preferences input[type=password]:not(.chzn-input) { width: 645px; height: 24px; padding: 6px 10px; }
+#account-preferences input[type=text]:not(.chzn-input)::-webkit-input-placeholder, #account-preferences input[type=password]:not(.chzn-input)::-webkit-input-placeholder { color: #d65c94; }
+#account-preferences input[type=text]:not(.chzn-input):-moz-placeholder, #account-preferences input[type=password]:not(.chzn-input):-moz-placeholder { color: #d65c94; }
+#account-preferences input[type=text]:not(.chzn-input).placeholder, #account-preferences input[type=password]:not(.chzn-input).placeholder { color: #d65c94; }
+#account-preferences div.tip-input { /* won't let inputs override the container top pixels */ width: 645px; height: 36px; padding: 0px 10px; padding: 0px 4px 0px 10px; width: 651px; }
+#account-preferences div.tip-input::-webkit-input-placeholder { color: #d65c94; }
+#account-preferences div.tip-input:-moz-placeholder { color: #d65c94; }
+#account-preferences div.tip-input.placeholder { color: #d65c94; }
+#account-preferences div.tip-input input[type=text], #account-preferences div.tip-input input[type=password] { width: 665px; height: 28px; padding: 0 0; width: 611px; padding: 0; margin-top: 4px; }
+#account-preferences div.tip-input input[type=text]::-webkit-input-placeholder, #account-preferences div.tip-input input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+#account-preferences div.tip-input input[type=text]:-moz-placeholder, #account-preferences div.tip-input input[type=password]:-moz-placeholder { color: #d65c94; }
+#account-preferences div.tip-input input[type=text].placeholder, #account-preferences div.tip-input input[type=password].placeholder { color: #d65c94; }
+#account-preferences div.tip-input input[type=button] { width: 29px; height: 29px; line-height: 29px; margin: 4px 0 0 11px; padding: 0; }
+#account-preferences button.btn-submit.full { float: right; clear: both; width: 725px; }
+#account-preferences div.account section { overflow: visible; /* don't crop dropdowns */ }
+#account-preferences div.account fieldset > * { margin-bottom: 20px !important; }
+#account-preferences div.account fieldset .field-company, #account-preferences div.account fieldset .field-position, #account-preferences div.account fieldset .field-current_password, #account-preferences div.account fieldset .field-new_password { width: 307px; height: 28px; padding: 6px 10px; float: left; }
+#account-preferences div.account fieldset .field-company::-webkit-input-placeholder, #account-preferences div.account fieldset .field-position::-webkit-input-placeholder, #account-preferences div.account fieldset .field-current_password::-webkit-input-placeholder, #account-preferences div.account fieldset .field-new_password::-webkit-input-placeholder { color: #d65c94; }
+#account-preferences div.account fieldset .field-company:-moz-placeholder, #account-preferences div.account fieldset .field-position:-moz-placeholder, #account-preferences div.account fieldset .field-current_password:-moz-placeholder, #account-preferences div.account fieldset .field-new_password:-moz-placeholder { color: #d65c94; }
+#account-preferences div.account fieldset .field-company.placeholder, #account-preferences div.account fieldset .field-position.placeholder, #account-preferences div.account fieldset .field-current_password.placeholder, #account-preferences div.account fieldset .field-new_password.placeholder { color: #d65c94; }
+#account-preferences div.account fieldset .field-company, #account-preferences div.account fieldset .field-current_password { margin-right: 11px; }
+#account-preferences div.account fieldset select { width: 665px; }
+#account-preferences div.services { display: none; }
+#account-preferences div.services section { height: 506px; }
+#account-preferences div.services section.form { display: none; }
+#account-preferences div.services ul { height: 440px; }
+#account-preferences div.services ul li { height: 45px; padding: 10px; margin-bottom: 10px; }
+#account-preferences div.services ul li { position: relative; padding-left: 65px; }
+#account-preferences div.services ul li .confirmation .btn-light { height: 55px !important; text-align: center; }
+#account-preferences div.services ul li .confirmation .btn-light > span { line-height: 4.8em !important; }
+#account-preferences div.services ul li .service { color: #aba89c; font-size: 12px; text-transform: none; }
+#account-preferences div.services ul li .authorize { margin-right: 10px; }
+#account-preferences div.services ul li .authorize, #account-preferences div.services ul li .delete { float: right; }
+#account-preferences div.services fieldset { /* don't apply the input style to chozen search */ }
+#account-preferences div.services fieldset > input[type=text], #account-preferences div.services fieldset > input[type=password] { width: 512px; height: 24px; padding: 6px 10px; }
+#account-preferences div.services fieldset > input[type=text]::-webkit-input-placeholder, #account-preferences div.services fieldset > input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+#account-preferences div.services fieldset > input[type=text]:-moz-placeholder, #account-preferences div.services fieldset > input[type=password]:-moz-placeholder { color: #d65c94; }
+#account-preferences div.services fieldset > input[type=text].placeholder, #account-preferences div.services fieldset > input[type=password].placeholder { color: #d65c94; }
+#account-preferences div.services fieldset div.tip-input { /* won't let inputs override the container top pixels */ width: 512px; height: 36px; padding: 0px 10px; padding: 0px 4px 0px 10px; width: 518px; }
+#account-preferences div.services fieldset div.tip-input::-webkit-input-placeholder { color: #d65c94; }
+#account-preferences div.services fieldset div.tip-input:-moz-placeholder { color: #d65c94; }
+#account-preferences div.services fieldset div.tip-input.placeholder { color: #d65c94; }
+#account-preferences div.services fieldset div.tip-input input[type=text], #account-preferences div.services fieldset div.tip-input input[type=password] { width: 532px; height: 28px; padding: 0 0; width: 478px; padding: 0; margin-top: 4px; }
+#account-preferences div.services fieldset div.tip-input input[type=text]::-webkit-input-placeholder, #account-preferences div.services fieldset div.tip-input input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+#account-preferences div.services fieldset div.tip-input input[type=text]:-moz-placeholder, #account-preferences div.services fieldset div.tip-input input[type=password]:-moz-placeholder { color: #d65c94; }
+#account-preferences div.services fieldset div.tip-input input[type=text].placeholder, #account-preferences div.services fieldset div.tip-input input[type=password].placeholder { color: #d65c94; }
+#account-preferences div.services fieldset div.tip-input input[type=button] { width: 29px; height: 29px; line-height: 29px; margin: 4px 0 0 11px; padding: 0; }
+#account-preferences div.services fieldset textarea { width: 512px; height: 78px; padding: 6px 10px; }
+#account-preferences div.services fieldset textarea::-webkit-input-placeholder { color: #d65c94; }
+#account-preferences div.services fieldset textarea:-moz-placeholder { color: #d65c94; }
+#account-preferences div.services fieldset textarea.placeholder { color: #d65c94; }
+#account-preferences div.services fieldset select { width: 532px; }
+#account-preferences div.services .cancel { display: block; height: 30px; text-align: right; }
+#account-preferences div.services .send { width: 123px; height: 82px; float: right; font-size: 1.5em; }
+#account-preferences div.services .send.disabled { background-image: url('/static/dashboard/img/ajax-loader.gif?e564737e52c78a3a9bbfa237746722ee'); background-repeat: no-repeat; background-position: 44px 28px; }
+.ie #account-preferences div.services ul li .confirmation .btn-light > span { line-height: normal !important; }
+#account-preferences div.subscription > section, #account-preferences div.billing > section { overflow: visible; }
+#account-preferences div.subscription h3, #account-preferences div.billing h3 { clear: both; margin-top: 0px; margin-bottom: 5px; line-height: 22px; }
+#account-preferences div.subscription h3.trial, #account-preferences div.billing h3.trial { color: #656053; }
+#account-preferences div.subscription p, #account-preferences div.billing p { margin-bottom: 20px; }
+#account-preferences div.subscription .sent, #account-preferences div.subscription .plan-changed, #account-preferences div.billing .sent, #account-preferences div.billing .plan-changed { display: none; }
+#account-preferences div.subscription .loading, #account-preferences div.billing .loading { min-height: 506px; background: url('/static/dashboard/img/light-ajax-loader.gif?6ab81b58a4471f5ff309dfadc397b34b') center no-repeat; }
+#account-preferences div.subscription .loading h3.billing, #account-preferences div.billing .loading h3.billing { display: none; }
+#account-preferences div.subscription .recurly, #account-preferences div.billing .recurly { clear: both; margin-bottom: 5px; }
+#account-preferences div.subscription .recurly > *, #account-preferences div.billing .recurly > * { margin-bottom: 10px; }
+#account-preferences div.subscription .recurly > input[type=text], #account-preferences div.billing .recurly > input[type=text] { width: 307px; height: 24px; padding: 6px 10px; }
+#account-preferences div.subscription .recurly > input[type=text]::-webkit-input-placeholder, #account-preferences div.billing .recurly > input[type=text]::-webkit-input-placeholder { color: #d65c94; }
+#account-preferences div.subscription .recurly > input[type=text]:-moz-placeholder, #account-preferences div.billing .recurly > input[type=text]:-moz-placeholder { color: #d65c94; }
+#account-preferences div.subscription .recurly > input[type=text].placeholder, #account-preferences div.billing .recurly > input[type=text].placeholder { color: #d65c94; }
+#account-preferences div.subscription .recurly > input[type=text]::-webkit-input-placeholder, #account-preferences div.billing .recurly > input[type=text]::-webkit-input-placeholder { color: #aba89c; }
+#account-preferences div.subscription .recurly > input[type=text]:-moz-placeholder, #account-preferences div.billing .recurly > input[type=text]:-moz-placeholder { color: #aba89c; }
+#account-preferences div.subscription .recurly > input[type=text].placeholder, #account-preferences div.billing .recurly > input[type=text].placeholder { color: #aba89c; }
+#account-preferences div.subscription .recurly div.tip-input, #account-preferences div.billing .recurly div.tip-input { /* won't let inputs override the container top pixels */ width: 307px; height: 36px; padding: 0px 10px; padding: 0px 4px 0px 10px; width: 313px; }
+#account-preferences div.subscription .recurly div.tip-input::-webkit-input-placeholder, #account-preferences div.billing .recurly div.tip-input::-webkit-input-placeholder { color: #d65c94; }
+#account-preferences div.subscription .recurly div.tip-input:-moz-placeholder, #account-preferences div.billing .recurly div.tip-input:-moz-placeholder { color: #d65c94; }
+#account-preferences div.subscription .recurly div.tip-input.placeholder, #account-preferences div.billing .recurly div.tip-input.placeholder { color: #d65c94; }
+#account-preferences div.subscription .recurly div.tip-input input[type=text], #account-preferences div.subscription .recurly div.tip-input input[type=password], #account-preferences div.billing .recurly div.tip-input input[type=text], #account-preferences div.billing .recurly div.tip-input input[type=password] { width: 327px; height: 28px; padding: 0 0; width: 273px; padding: 0; margin-top: 4px; }
+#account-preferences div.subscription .recurly div.tip-input input[type=text]::-webkit-input-placeholder, #account-preferences div.subscription .recurly div.tip-input input[type=password]::-webkit-input-placeholder, #account-preferences div.billing .recurly div.tip-input input[type=text]::-webkit-input-placeholder, #account-preferences div.billing .recurly div.tip-input input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+#account-preferences div.subscription .recurly div.tip-input input[type=text]:-moz-placeholder, #account-preferences div.subscription .recurly div.tip-input input[type=password]:-moz-placeholder, #account-preferences div.billing .recurly div.tip-input input[type=text]:-moz-placeholder, #account-preferences div.billing .recurly div.tip-input input[type=password]:-moz-placeholder { color: #d65c94; }
+#account-preferences div.subscription .recurly div.tip-input input[type=text].placeholder, #account-preferences div.subscription .recurly div.tip-input input[type=password].placeholder, #account-preferences div.billing .recurly div.tip-input input[type=text].placeholder, #account-preferences div.billing .recurly div.tip-input input[type=password].placeholder { color: #d65c94; }
+#account-preferences div.subscription .recurly div.tip-input input[type=button], #account-preferences div.billing .recurly div.tip-input input[type=button] { width: 29px; height: 29px; line-height: 29px; margin: 4px 0 0 11px; padding: 0; }
+#account-preferences div.subscription .recurly .field-first_name, #account-preferences div.subscription .recurly .field-number, #account-preferences div.subscription .recurly .field-verification_value, #account-preferences div.subscription .recurly .field-address1, #account-preferences div.subscription .recurly .field-state, #account-preferences div.subscription .recurly .field-company_name, #account-preferences div.subscription .recurly .field-zip, #account-preferences div.billing .recurly .field-first_name, #account-preferences div.billing .recurly .field-number, #account-preferences div.billing .recurly .field-verification_value, #account-preferences div.billing .recurly .field-address1, #account-preferences div.billing .recurly .field-state, #account-preferences div.billing .recurly .field-company_name, #account-preferences div.billing .recurly .field-zip { margin-right: 11px; }
+#account-preferences div.subscription .recurly .field-zip, #account-preferences div.billing .recurly .field-zip { width: 62px !important; }
+#account-preferences div.subscription .recurly .field-country, #account-preferences div.billing .recurly .field-country { width: 234px; }
+#account-preferences div.subscription .recurly .field-country + .chzn-container, #account-preferences div.billing .recurly .field-country + .chzn-container { margin-right: 0; }
+#account-preferences div.subscription .recurly .field-country + .chzn-container .chzn-single.idle, #account-preferences div.billing .recurly .field-country + .chzn-container .chzn-single.idle { -webkit-box-shadow: 0px 0px 0px rgba(153, 0, 0, 0.3) !important; box-shadow: 0px 0px 0px rgba(153, 0, 0, 0.3) !important; -webkit-transition: -webkit-box-shadow 0.6s; -moz-transition: -moz-box-shadow 0.6s; -o-transition: -o-box-shadow 0.6s; transition: box-shadow 0.6s; }
+#account-preferences div.subscription .recurly .field-country + .chzn-container .chzn-single.updated, #account-preferences div.billing .recurly .field-country + .chzn-container .chzn-single.updated { -webkit-box-shadow: 0 3px 20px #990000 !important; box-shadow: 0 3px 20px #990000 !important; -webkit-transition: -webkit-box-shadow 0.6s; -moz-transition: -moz-box-shadow 0.6s; -o-transition: -o-box-shadow 0.6s; transition: box-shadow 0.6s; }
+#account-preferences div.subscription .recurly .field-number, #account-preferences div.billing .recurly .field-number { background: url('/static/dashboard/img/credit_cards_grey.png?a36af8a3721965662e595df85b6aa000') 229px no-repeat; background-size: 91px; }
+#account-preferences div.subscription .recurly .field-verification_value, #account-preferences div.billing .recurly .field-verification_value { width: 62px !important; }
+#account-preferences div.subscription .recurly .field-month, #account-preferences div.billing .recurly .field-month { width: 130px; }
+#account-preferences div.subscription .recurly .field-month + .chzn-container, #account-preferences div.billing .recurly .field-month + .chzn-container { margin-right: 11px; }
+#account-preferences div.subscription .recurly .field-year, #account-preferences div.billing .recurly .field-year { width: 90px; }
+#account-preferences div.subscription .vat-info, #account-preferences div.billing .vat-info { margin-bottom: 0px; }
+#account-preferences div.subscription .vat-info > *, #account-preferences div.billing .vat-info > * { float: left; }
+#account-preferences div.subscription ul.server-errors, #account-preferences div.billing ul.server-errors { clear: both; display: none; overflow: hidden; line-height: 22px; margin-bottom: 5px; }
+#account-preferences div.subscription ul.server-errors li, #account-preferences div.billing ul.server-errors li { float: left; color: #990000; margin-right: 10px; }
+#account-preferences div.subscription .plan-item.preview, #account-preferences div.billing .plan-item.preview { margin-bottom: 20px; background-color: #d6d5c9; cursor: default; }
+#account-preferences div.subscription .plan-item.preview:hover, #account-preferences div.billing .plan-item.preview:hover { background-color: #d6d5c9; color: #656053; }
+#account-preferences div.subscription .plan-item.preview span:first-child, #account-preferences div.billing .plan-item.preview span:first-child { line-height: 34px; }
+#account-preferences div.subscription .plan-item.exceeded, #account-preferences div.billing .plan-item.exceeded { color: #fff; background-color: #cc0066; font-size: 1.4em; line-height: 1.2em; }
+#account-preferences div.subscription .current, #account-preferences div.subscription .preview, #account-preferences div.billing .current, #account-preferences div.billing .preview { height: 34px; width: 398px; line-height: 34px; margin-right: 11px; background-color: #d6d5c9; cursor: pointer; }
+#account-preferences div.subscription .current.idle, #account-preferences div.subscription .preview.idle, #account-preferences div.billing .current.idle, #account-preferences div.billing .preview.idle { -webkit-box-shadow: 0px 0px 0px rgba(214, 213, 201, 0.3) !important; box-shadow: 0px 0px 0px rgba(214, 213, 201, 0.3) !important; -webkit-transition: -webkit-box-shadow 0.6s, background-color 0.2s ease, color 0.2s ease; -moz-transition: -moz-box-shadow 0.6s, background-color 0.2s ease, color 0.2s ease; -o-transition: -o-box-shadow 0.6s, background-color 0.2s ease, color 0.2s ease; transition: box-shadow 0.6s, background-color 0.2s ease, color 0.2s ease; }
+#account-preferences div.subscription .current.updated, #account-preferences div.subscription .preview.updated, #account-preferences div.billing .current.updated, #account-preferences div.billing .preview.updated { -webkit-box-shadow: 0 3px 20px #d6d5c9 !important; box-shadow: 0 3px 20px #d6d5c9 !important; -webkit-transition: -webkit-box-shadow 0.6s, background-color 0.2s ease, color 0.2s ease; -moz-transition: -moz-box-shadow 0.6s, background-color 0.2s ease, color 0.2s ease; -o-transition: -o-box-shadow 0.6s, background-color 0.2s ease, color 0.2s ease; transition: box-shadow 0.6s, background-color 0.2s ease, color 0.2s ease; }
+#account-preferences div.subscription .current.disabled, #account-preferences div.subscription .current:disabled, #account-preferences div.subscription .preview.disabled, #account-preferences div.subscription .preview:disabled, #account-preferences div.billing .current.disabled, #account-preferences div.billing .current:disabled, #account-preferences div.billing .preview.disabled, #account-preferences div.billing .preview:disabled { background-color: #656053 !important; cursor: default; color: #d6d5c9; }
+#account-preferences div.subscription .current.disabled .link, #account-preferences div.subscription .current:disabled .link, #account-preferences div.subscription .preview.disabled .link, #account-preferences div.subscription .preview:disabled .link, #account-preferences div.billing .current.disabled .link, #account-preferences div.billing .current:disabled .link, #account-preferences div.billing .preview.disabled .link, #account-preferences div.billing .preview:disabled .link { display: none; }
+#account-preferences div.subscription .current.disabled .loading-text, #account-preferences div.subscription .current:disabled .loading-text, #account-preferences div.subscription .preview.disabled .loading-text, #account-preferences div.subscription .preview:disabled .loading-text, #account-preferences div.billing .current.disabled .loading-text, #account-preferences div.billing .current:disabled .loading-text, #account-preferences div.billing .preview.disabled .loading-text, #account-preferences div.billing .preview:disabled .loading-text { display: block; }
+#account-preferences div.subscription .current.disabled:hover .vat, #account-preferences div.subscription .current:disabled:hover .vat, #account-preferences div.subscription .preview.disabled:hover .vat, #account-preferences div.subscription .preview:disabled:hover .vat, #account-preferences div.billing .current.disabled:hover .vat, #account-preferences div.billing .current:disabled:hover .vat, #account-preferences div.billing .preview.disabled:hover .vat, #account-preferences div.billing .preview:disabled:hover .vat { color: #999588 !important; }
+#account-preferences div.subscription .plan-item, #account-preferences div.billing .plan-item { float: left; padding: 23px; margin-bottom: 15px; color: #656053; text-align: left; text-transform: none; font-size: 2.2em; position: relative; }
+#account-preferences div.subscription .plan-item.current .vat, #account-preferences div.subscription .plan-item.current .link, #account-preferences div.subscription .plan-item.current .loading-text, #account-preferences div.billing .plan-item.current .vat, #account-preferences div.billing .plan-item.current .link, #account-preferences div.billing .plan-item.current .loading-text { margin-top: -7px; }
+#account-preferences div.subscription .plan-item.current .total, #account-preferences div.billing .plan-item.current .total { margin-top: -4px; }
+#account-preferences div.subscription .plan-item.current .name, #account-preferences div.billing .plan-item.current .name { float: left; }
+#account-preferences div.subscription .plan-item.current .link, #account-preferences div.billing .plan-item.current .link { clear: both; -webkit-transition: color 0.2s ease; -moz-transition: color 0.2s ease; -o-transition: color 0.2s ease; transition: color 0.2s ease; }
+#account-preferences div.subscription .plan-item.preview .total, #account-preferences div.billing .plan-item.preview .total { margin-top: -4px; }
+#account-preferences div.subscription .plan-item.preview .vat, #account-preferences div.billing .plan-item.preview .vat { margin-top: -7px; }
+#account-preferences div.subscription .plan-item .name, #account-preferences div.billing .plan-item .name { position: relative; top: -4px; }
+#account-preferences div.subscription .plan-item:not(.current) .name, #account-preferences div.billing .plan-item:not(.current) .name { top: -7px; }
+#account-preferences div.subscription .plan-item .description, #account-preferences div.billing .plan-item .description { color: #999588; font-size: 0.5em; line-height: .4em; position: absolute; left: 23px; bottom: 23px; padding-top: 2px; text-transform: uppercase; }
+#account-preferences div.subscription .plan-item .link, #account-preferences div.subscription .plan-item .loading-text, #account-preferences div.billing .plan-item .link, #account-preferences div.billing .plan-item .loading-text { float: left; color: #cc0066; text-transform: uppercase; }
+#account-preferences div.subscription .plan-item .loading-text, #account-preferences div.billing .plan-item .loading-text { color: #999588; display: none; }
+#account-preferences div.subscription .plan-item .cost, #account-preferences div.billing .plan-item .cost { float: right; margin-left: 10px; }
+#account-preferences div.subscription .plan-item .cost .monthly, #account-preferences div.subscription .plan-item .cost .yearly, #account-preferences div.billing .plan-item .cost .monthly, #account-preferences div.billing .plan-item .cost .yearly { font-size: 0.7em; }
+#account-preferences div.subscription .plan-item .vat, #account-preferences div.subscription .plan-item .link, #account-preferences div.subscription .plan-item .loading-text, #account-preferences div.billing .plan-item .vat, #account-preferences div.billing .plan-item .link, #account-preferences div.billing .plan-item .loading-text { clear: right; line-height: 16px; font-size: 0.5em; margin-top: -2px; }
+#account-preferences div.subscription .plan-item .vat, #account-preferences div.billing .plan-item .vat { float: right; color: #999588; font-size: 0.6em; }
+#account-preferences div.subscription .plan-item:not(.preview):hover .link, #account-preferences div.billing .plan-item:not(.preview):hover .link { color: #fff; }
+#account-preferences div.subscription .plan-item:not(.preview):hover .vat, #account-preferences div.billing .plan-item:not(.preview):hover .vat { color: #d65c94; }
+#account-preferences div.subscription .coupon-info, #account-preferences div.billing .coupon-info { width: 210px; height: 80px; background-color: #d6d5c9; border-radius: 3px; float: left; }
+#account-preferences div.subscription .coupon-info .show, #account-preferences div.billing .coupon-info .show { height: 80px; width: 210px; line-height: 80px; font-size: 1.1em; cursor: pointer; background-color: #c8c5bb; }
+#account-preferences div.subscription .coupon-info .show span, #account-preferences div.billing .coupon-info .show span { color: #d6d5c9; font-size: 0.8em; text-transform: none; }
+#account-preferences div.subscription .coupon-info .show span.link, #account-preferences div.billing .coupon-info .show span.link { color: #d65c94; text-transform: uppercase; }
+#account-preferences div.subscription .coupon-info .show:hover .link, #account-preferences div.billing .coupon-info .show:hover .link { color: #fff; }
+#account-preferences div.subscription .coupon-info .applied, #account-preferences div.subscription .coupon-info .invalid, #account-preferences div.billing .coupon-info .applied, #account-preferences div.billing .coupon-info .invalid { height: 34px; width: 164px; line-height: 34px; font-size: 1.1em; cursor: pointer; padding: 23px; text-align: left; line-height: 1; }
+#account-preferences div.subscription .coupon-info .applied span, #account-preferences div.subscription .coupon-info .invalid span, #account-preferences div.billing .coupon-info .applied span, #account-preferences div.billing .coupon-info .invalid span { color: #d6d5c9; font-size: 0.8em; text-transform: none; }
+#account-preferences div.subscription .coupon-info .applied span.link, #account-preferences div.subscription .coupon-info .invalid span.link, #account-preferences div.billing .coupon-info .applied span.link, #account-preferences div.billing .coupon-info .invalid span.link { color: #d65c94; text-transform: uppercase; }
+#account-preferences div.subscription .coupon-info .applied:hover .link, #account-preferences div.subscription .coupon-info .invalid:hover .link, #account-preferences div.billing .coupon-info .applied:hover .link, #account-preferences div.billing .coupon-info .invalid:hover .link { color: #fff; }
+#account-preferences div.subscription .coupon-info .applied, #account-preferences div.billing .coupon-info .applied { background-color: #d6d5c9; color: #656053; }
+#account-preferences div.subscription .coupon-info .invalid, #account-preferences div.billing .coupon-info .invalid { background-color: #990000 !important; color: #fff; }
+#account-preferences div.subscription .coupon-info .apply, #account-preferences div.billing .coupon-info .apply { display: none; padding: 23px; }
+#account-preferences div.subscription .coupon-info .apply input[type=text], #account-preferences div.billing .coupon-info .apply input[type=text] { width: 71px; height: 22px; padding: 6px 10px; float: left; margin-right: 11px; font-size: 1.1em; }
+#account-preferences div.subscription .coupon-info .apply a, #account-preferences div.billing .coupon-info .apply a { height: 34px; width: 62px; line-height: 34px; cursor: pointer; float: left; }
+#account-preferences div.subscription .coupon-info .apply a.disabled, #account-preferences div.billing .coupon-info .apply a.disabled { cursor: default; }
+#account-preferences div.subscription .tos, #account-preferences div.billing .tos { line-height: 22px; clear: both; }
+#account-preferences div.subscription .tos a, #account-preferences div.billing .tos a { color: #d65c94; }
+#account-preferences div.subscription .loading-plans-info, #account-preferences div.billing .loading-plans-info { display: none; min-height: 506px; background: url('/static/dashboard/img/light-ajax-loader.gif?6ab81b58a4471f5ff309dfadc397b34b') center no-repeat; }
+#account-preferences div.subscription .plans-info, #account-preferences div.billing .plans-info { display: none; }
+#account-preferences div.subscription .plans-info h3.left, #account-preferences div.billing .plans-info h3.left { float: left; }
+#account-preferences div.subscription .plans-info a, #account-preferences div.billing .plans-info a { float: right; margin-top: 0px; margin-bottom: 5px; line-height: 22px; }
+#account-preferences div.subscription .plans-info .plan-item, #account-preferences div.billing .plans-info .plan-item { width: 619px; }
+#account-preferences div.subscription .plans-info li.plan-item, #account-preferences div.billing .plans-info li.plan-item { height: 34px; line-height: 34px; background-color: #e6e6dc; border-radius: 3px; }
+#account-preferences div.subscription .plans-info li.plan-item .cost, #account-preferences div.billing .plans-info li.plan-item .cost { height: 36px; width: 93px; line-height: 36px; font-size: 0.8em; text-transform: none; background-color: #656053; cursor: pointer; margin-left: 20px; }
+#account-preferences div.subscription .plans-info li.plan-item .cost .monthly, #account-preferences div.subscription .plans-info li.plan-item .cost .yearly, #account-preferences div.billing .plans-info li.plan-item .cost .monthly, #account-preferences div.billing .plans-info li.plan-item .cost .yearly { font-size: 0.5em; }
+#account-preferences div.subscription .plans-info li.plan-item .selected, #account-preferences div.billing .plans-info li.plan-item .selected { background-color: transparent; color: #656053; font-size: 1.1em; cursor: default; }
+#account-preferences div.subscription .plans-info li.plan-item .selected:hover, #account-preferences div.billing .plans-info li.plan-item .selected:hover { background-color: transparent; color: #656053; }
+#account-preferences div.subscription .plans-info li.plan-item.disabled, #account-preferences div.billing .plans-info li.plan-item.disabled { background-color: #990000 !important; line-height: 0.8; color: #fff; }
+#account-preferences div.subscription .plans-info li.plan-item.disabled span, #account-preferences div.billing .plans-info li.plan-item.disabled span { color: #d6d5c9; font-size: 0.5em; }
+#account-preferences div.subscription .plans-info li.plan-item .error, #account-preferences div.billing .plans-info li.plan-item .error { display: none; }
+#account-preferences div.subscription .confirm, #account-preferences div.billing .confirm { display: none; text-transform: none; }
+#account-preferences div.subscription .confirm .cancel, #account-preferences div.billing .confirm .cancel { display: block; float: right; color: #d65c94; text-transform: uppercase; }
+#account-preferences div.subscription .confirm h1, #account-preferences div.billing .confirm h1 { clear: both; /* margin would be more correct, but won't work*/ padding-top: 20px; }
+#account-preferences div.subscription .confirm h1 b, #account-preferences div.billing .confirm h1 b { color: #656053; }
+#account-preferences div.subscription .confirm p, #account-preferences div.billing .confirm p { font-size: 1.3em; line-height: 1.5; }
+#account-preferences div.subscription .confirm table, #account-preferences div.billing .confirm table { width: 100%; margin-top: 20px; font-size: 1.3em; line-height: 1.5; background-color: #e6e6db; border-radius: 3px; }
+#account-preferences div.subscription .confirm table tr, #account-preferences div.billing .confirm table tr { color: #999588; border-top: 1px solid #d6d5c9; }
+#account-preferences div.subscription .confirm table tr.first, #account-preferences div.billing .confirm table tr.first { border-top: 0px; }
+#account-preferences div.subscription .confirm table tr.first td, #account-preferences div.billing .confirm table tr.first td { padding-top: 10px; }
+#account-preferences div.subscription .confirm table tr.total, #account-preferences div.billing .confirm table tr.total { font-size: 1.2em; color: #656053; border-top: 2px solid #999588; }
+#account-preferences div.subscription .confirm table tr.total td, #account-preferences div.billing .confirm table tr.total td { padding-bottom: 10px; }
+#account-preferences div.subscription .confirm table tr td, #account-preferences div.billing .confirm table tr td { padding: 5px 10px; }
+#account-preferences div.subscription .confirm table tr td.num, #account-preferences div.billing .confirm table tr td.num { color: #cc0066; text-align: right; }
+#account-preferences div.subscription .send.error, #account-preferences div.billing .send.error { font-size: 1.8em; line-height: 1.2; }
+#account-preferences div.billing .plan-item { width: 619px; }
+#account-preferences div.invoices section { height: 520px; }
+#account-preferences div.invoices ul { height: 440px; }
+#account-preferences div.invoices ul.loading { background: url('/static/dashboard/img/light-ajax-loader.gif?6ab81b58a4471f5ff309dfadc397b34b') center no-repeat; }
+#account-preferences div.invoices ul li { height: 45px; padding: 10px; margin-bottom: 10px; }
+#account-preferences div.invoices ul li span.invoice-date { color: #aba89c; text-transform: none; }
+#account-preferences div.invoices ul li .pdf { float: right; }
+#account-preferences div.api-key a.docs { display: block; margin-top: 100px; text-transform: uppercase; }
+#account-preferences div.api-key .api-key { padding: 10px; margin-top: 8px; font-size: 1.3em; text-transform: none; }
+#account-preferences div.api-key .api-key span { display: inline-block; width: 110px; height: 25px; line-height: 25px; padding: 0 10px; background-color: #999588; color: #fff; font-size: 1.1em; text-align: center; border-radius: 3px; }
+#account-preferences div.api-key .api-key input { display: inline-block; width: 515px; text-align: center; border: none; font-size: 16px; color: #656154; padding: 0; margin: 0; background: transparent; -webkit-box-shadow: none; box-shadow: none; }
+#account-preferences div.account-close textarea { width: 645px; height: 241px; padding: 6px 10px; }
+#account-preferences div.account-close textarea::-webkit-input-placeholder { color: #d65c94; }
+#account-preferences div.account-close textarea:-moz-placeholder { color: #d65c94; }
+#account-preferences div.account-close textarea.placeholder { color: #d65c94; }
+#account-preferences div.account-close ul { margin-top: 25px; font-size: 1em; line-height: 150%; text-transform: none; list-style: none; }
+#account-preferences div.account-close ul li { float: left; display: block; }
+#account-preferences div.account-close ul li:nth-child(2) { width: 95%; margin-left: 5px; }
+#account-preferences .failure { display: none; }
+#account-preferences .failure div { padding: 60px 20px; background-color: #990000; border-radius: 5px; -webkit-box-shadow: 0 0 10px #aba89c; box-shadow: 0 0 10px #aba89c; }
+#account-preferences .failure div h2 { color: white; margin-bottom: 20px; }
+#account-preferences .failure div p { font-size: 24px; color: #d69999; text-transform: none; margin-bottom: 10px; }
+#account-preferences .failure div a { color: yellow; }
+
+#widget-preferences section.advanced .subsections > li { margin-bottom: 20px; }
+#widget-preferences section.advanced .subsections > li h3 { /* separates title from description */ line-height: 18px; color: #656053; font-size: 1em; text-transform: uppercase; margin-bottom: 0.33333em; }
+
+#widget-preferences section.advanced .subsections > li .mod-webhook, #widget-preferences section.advanced .subsections > li .mod-embed { background-color: #f2f2e7; border-radius: 5px; padding: 10px; overflow: hidden; }
+#widget-preferences section.advanced .subsections > li .mod-webhook .description, #widget-preferences section.advanced .subsections > li .mod-embed .description { color: rgba(101, 95, 82, 0.6); font-size: 1.41667em; text-transform: none; margin-bottom: 0.76471em; }
+#widget-preferences section.advanced .subsections > li .mod-webhook input[type="text"], #widget-preferences section.advanced .subsections > li .mod-embed input[type="text"] { background-color: rgba(0, 0, 0, 0.08) !important; color: rgba(101, 95, 82, 0.6) !important; border: none; font-size: 1.25em !important; -webkit-box-shadow: none !important; box-shadow: none !important; width: 100% !important; padding: 6px 0.7em 7px; height: 43px; margin-bottom: 0 !important; line-height: 1; }
+
+#widget-preferences section.advanced .subsections > li .mod-webhook { padding-left: 105px; background-image: url('/static/dashboard/img/extras/webhooks.png?1181d91915e0ac8b52b3aef13b11d0d2'); background-repeat: no-repeat; background-position: 10px 10px; }
+#widget-preferences section.advanced .subsections > li .mod-webhook .description { padding-top: 6px; margin-bottom: 1.17647em; }
+
+#widget-preferences section.advanced .subsections > li .mod-embed { padding-left: 105px; min-height: 85px; background-image: url('/static/dashboard/img/extras/embeds.png?074ecbe54fac0b698f84a52d7cd2b919'); background-repeat: no-repeat; background-position: 10px 10px; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .description { padding-top: 6px; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet { overflow: hidden; padding-top: 6px; position: relative; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet .confirmation { padding-top: 4px; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet .confirmation .actions { right: -1px; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet .confirmation .actions a { height: 41px; text-align: center; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet input { width: 349px !important; float: left; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet > .actions { max-width: 37.5%; float: right; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet > .actions a { cursor: pointer; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet > .actions .disable { margin-left: 10px; width: 100px; line-height: 2.7em; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet > .actions .disable span { text-align: center; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet > .actions .disable, #widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet > .actions .copy { float: right; height: 43px; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet > .actions .copy { width: 101px; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet > .actions .copy a { min-width: 100px; text-align: left; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet > .actions .copy a i { margin-right: 5px; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet > .actions .copy a span { max-width: 53px; }
+#widget-preferences section.advanced .subsections > li .enabled.mod-embed .snippet > .actions .copy .zeroclipboard-container { position: relative; }
+#widget-preferences section.advanced .subsections > li .disabled.mod-embed:before { content: ''; display: inline-block; vertical-align: middle; min-height: 83px; position: relative; width: 1px; margin-left: -1px; }
+#widget-preferences section.advanced .subsections > li .disabled.mod-embed .description { max-width: 77%; margin-bottom: 0; line-height: normal; }
+#widget-preferences section.advanced .subsections > li .disabled.mod-embed > * { display: inline-block !important; vertical-align: middle; }
+#widget-preferences section.advanced .subsections > li .mod-embed a.enable { width: 100px; height: 43px; background-color: #999588; text-transform: uppercase; margin-top: 1px; }
+#widget-preferences section.advanced .subsections > li .mod-embed a.enable.disabled { background: url('/static/dashboard/img/ajax-loader-bg-dark-grey.gif?9f489ad305505d10d6b5cac8949a4772') no-repeat 50% 50%; background-color: #999588 !important; }
+
+#widget-preferences { /* this is being calculated in different places because some inheriters need the values to perform calculations, and less has not accessors anymore */ width: 860px; height: 730px; /* we want all inputs to look the same EXCEPT chozen search */ }
+#widget-preferences div.pane { width: 745px; }
+#widget-preferences div.pane > section { /* in height calc consider this element padding, the title height + margin and the submit button */ height: 516px; width: 800px; width: 685px; }
+#widget-preferences section.pane { /* in height calc consider this element padding, the title height + margin and the submit button */ height: 516px; width: 800px; width: 685px; }
+#widget-preferences input[type=text]:not(.chzn-input), #widget-preferences input[type=password]:not(.chzn-input) { width: 665px; height: 24px; padding: 6px 10px; }
+#widget-preferences input[type=text]:not(.chzn-input)::-webkit-input-placeholder, #widget-preferences input[type=password]:not(.chzn-input)::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences input[type=text]:not(.chzn-input):-moz-placeholder, #widget-preferences input[type=password]:not(.chzn-input):-moz-placeholder { color: #d65c94; }
+#widget-preferences input[type=text]:not(.chzn-input).placeholder, #widget-preferences input[type=password]:not(.chzn-input).placeholder { color: #d65c94; }
+#widget-preferences div.tip-input { /* won't let inputs override the container top pixels */ width: 665px; height: 36px; padding: 0px 10px; padding: 0px 4px 0px 10px; width: 671px; }
+#widget-preferences div.tip-input::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences div.tip-input:-moz-placeholder { color: #d65c94; }
+#widget-preferences div.tip-input.placeholder { color: #d65c94; }
+#widget-preferences div.tip-input input[type=text], #widget-preferences div.tip-input input[type=password] { width: 685px; height: 28px; padding: 0 0; width: 631px; padding: 0; margin-top: 4px; }
+#widget-preferences div.tip-input input[type=text]::-webkit-input-placeholder, #widget-preferences div.tip-input input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences div.tip-input input[type=text]:-moz-placeholder, #widget-preferences div.tip-input input[type=password]:-moz-placeholder { color: #d65c94; }
+#widget-preferences div.tip-input input[type=text].placeholder, #widget-preferences div.tip-input input[type=password].placeholder { color: #d65c94; }
+#widget-preferences div.tip-input input[type=button] { width: 29px; height: 29px; line-height: 29px; margin: 4px 0 0 11px; padding: 0; }
+#widget-preferences header { overflow: visible; position: relative; }
+#widget-preferences header .confirmation { max-height: 45px; }
+#widget-preferences header .title, #widget-preferences header .sound, #widget-preferences header .copy-to, #widget-preferences header .delete { float: left; margin-right: 10px; }
+#widget-preferences header .copy-to > a.disabled { padding-left: 11px; }
+#widget-preferences header .title input[type=text] { width: 350px; height: 32px; padding: 6px 10px; font-size: 2em; text-transform: none; }
+#widget-preferences header .title input[type=text][readonly=readonly] { background-color: #d6d5c9; }
+#widget-preferences header .sound.enabled .icon-alarm-off:before { color: #cfcec2!important; }
+#widget-preferences header .sound:not(.enabled) .icon-alarm:before { color: #cfcec2!important; }
+#widget-preferences header .sound .icon-alarm-off, #widget-preferences header .sound.enabled .icon-alarm { color: #C06; }
+#widget-preferences header .sound .icon-alarm { font-size: 31px; }
+#widget-preferences header ul#dashboards-to-copy-list { display: none; position: absolute; z-index: 100; padding: 10px; width: 180px; background-color: #f2f2e7; text-transform: uppercase; font-size: 12px; font-weight: bold; border-radius: 5px; -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); width: 300px; margin-left: -133px; margin-top: 5px; overflow: auto; max-height: 650px; }
+#widget-preferences header ul#dashboards-to-copy-list li { width: 180px; height: 45px; margin-bottom: 10px; background-color: #e1e1d7; color: #999588; border-radius: 5px; -webkit-transition: background-color 0.2s; -moz-transition: background-color 0.2s; -o-transition: background-color 0.2s; transition: background-color 0.2s; }
+#widget-preferences header ul#dashboards-to-copy-list li:last-child { margin-bottom: 0; }
+#widget-preferences header ul#dashboards-to-copy-list li > a { display: block; }
+#widget-preferences header ul#dashboards-to-copy-list li { width: 100%; }
+.webkit #widget-preferences ul#dashboards-to-copy-list { margin-left: -136px; }
+#widget-preferences.service header ul#dashboards-to-copy-list { max-height: 485px; }
+#widget-preferences button.btn-submit.full { float: right; clear: both; width: 745px; }
+#widget-preferences nav.sidebar a { background-color: #f2f2e7; color: rgba(101, 96, 83, 0.5); }
+#widget-preferences nav.sidebar a:hover { color: #656053; }
+#widget-preferences nav.sidebar a.current { background-color: #D4D4C9; color: #656053; }
+#widget-preferences div.pane > section, #widget-preferences section.pane { background-color: #D4D4C9; color: #999588; }
+#widget-preferences div.pane > section input[type="text"]:not(.chzn-input), #widget-preferences div.pane > section textarea, #widget-preferences div.pane > section .tip-input, #widget-preferences div.pane > section input[type="password"], #widget-preferences section.pane input[type="text"]:not(.chzn-input), #widget-preferences section.pane textarea, #widget-preferences section.pane .tip-input, #widget-preferences section.pane input[type="password"] { background-color: #f2f2e7 !important; border-radius: 5px !important; }
+#widget-preferences div.pane > section input.autocomplete.open, #widget-preferences section.pane input.autocomplete.open { border-bottom-left-radius: 0!important; border-bottom-right-radius: 0!important; }
+#widget-preferences section.appearance { height: 536px; }
+#widget-preferences div.feedback .form div { float: left; height: 80px; line-height: 40px; margin-bottom: 20px; font-size: 2.1em; }
+#widget-preferences div.feedback .form div p { height: 40px; overflow: hidden; }
+#widget-preferences div.feedback .form div.titles { width: 100px; padding-right: 10px; text-align: right; text-transform: lowercase; }
+#widget-preferences div.feedback .form div.values { color: #656053; /* titles width + padding */ width: 575px; text-align: left; text-transform: none; }
+#widget-preferences div.feedback .form textarea { /* height = section height - "from" header height and margin - send button height */ width: 665px; height: 374px; padding: 6px 10px; }
+#widget-preferences div.feedback .form textarea::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences div.feedback .form textarea:-moz-placeholder { color: #d65c94; }
+#widget-preferences div.feedback .form textarea.placeholder { color: #d65c94; }
+#widget-preferences div.feedback .sent { display: none; }
+#widget-preferences div.feedback button.send { margin-bottom: 50px; }
+#widget-preferences section.account a.new { display: block; float: right; width: 20%; }
+#widget-preferences section.account ul { float: left; width: 75%; }
+#widget-preferences section.account ul li { /* IE, as usual... */ display: inline-block; vertical-align: top; width: 49%; }
+#widget-preferences section.account ul li { height: 30px; margin-bottom: 15px; }
+#widget-preferences section.account ul li a { display: block; height: 30px; line-height: 1.2em; }
+#widget-preferences section.account ul li a span { -webkit-transition: color 0.2s; -moz-transition: color 0.2s; -o-transition: color 0.2s; transition: color 0.2s; }
+#widget-preferences section.account ul li a i { float: left; height: 30px; margin-top: -1px; margin-right: 10px; -webkit-transition: color 0.2s; -moz-transition: color 0.2s; -o-transition: color 0.2s; transition: color 0.2s; }
+#widget-preferences section.account ul li a:hover i, #widget-preferences section.account ul li a.selected i { color: #cc0066; }
+#widget-preferences section.account ul.disabled a { cursor: default; /* don't highlight accounts on hover (shouldn't affect selected one) */ }
+#widget-preferences section.account ul.disabled a:not(.selected):hover { color: #aba89c; }
+#widget-preferences section.account ul.disabled a:not(.selected):hover:before { background-position: 0px -520px; }
+#widget-preferences section.account .form { display: none; }
+#widget-preferences section.account .form fieldset { /* don't apply the input style to chozen search */ }
+#widget-preferences section.account .form fieldset > input[type=text], #widget-preferences section.account .form fieldset > input[type=password] { width: 528px; height: 24px; padding: 6px 10px; }
+#widget-preferences section.account .form fieldset > input[type=text]::-webkit-input-placeholder, #widget-preferences section.account .form fieldset > input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences section.account .form fieldset > input[type=text]:-moz-placeholder, #widget-preferences section.account .form fieldset > input[type=password]:-moz-placeholder { color: #d65c94; }
+#widget-preferences section.account .form fieldset > input[type=text].placeholder, #widget-preferences section.account .form fieldset > input[type=password].placeholder { color: #d65c94; }
+#widget-preferences section.account .form fieldset div.tip-input { /* won't let inputs override the container top pixels */ width: 528px; height: 36px; padding: 0px 10px; padding: 0px 4px 0px 10px; width: 534px; }
+#widget-preferences section.account .form fieldset div.tip-input::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences section.account .form fieldset div.tip-input:-moz-placeholder { color: #d65c94; }
+#widget-preferences section.account .form fieldset div.tip-input.placeholder { color: #d65c94; }
+#widget-preferences section.account .form fieldset div.tip-input input[type=text], #widget-preferences section.account .form fieldset div.tip-input input[type=password] { width: 548px; height: 28px; padding: 0 0; width: 494px; padding: 0; margin-top: 4px; }
+#widget-preferences section.account .form fieldset div.tip-input input[type=text]::-webkit-input-placeholder, #widget-preferences section.account .form fieldset div.tip-input input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences section.account .form fieldset div.tip-input input[type=text]:-moz-placeholder, #widget-preferences section.account .form fieldset div.tip-input input[type=password]:-moz-placeholder { color: #d65c94; }
+#widget-preferences section.account .form fieldset div.tip-input input[type=text].placeholder, #widget-preferences section.account .form fieldset div.tip-input input[type=password].placeholder { color: #d65c94; }
+#widget-preferences section.account .form fieldset div.tip-input input[type=button] { width: 29px; height: 29px; line-height: 29px; margin: 4px 0 0 11px; padding: 0; }
+#widget-preferences section.account .form fieldset textarea { width: 528px; height: 78px; padding: 6px 10px; }
+#widget-preferences section.account .form fieldset textarea::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences section.account .form fieldset textarea:-moz-placeholder { color: #d65c94; }
+#widget-preferences section.account .form fieldset textarea.placeholder { color: #d65c94; }
+#widget-preferences section.account .form fieldset select { width: 548px; }
+#widget-preferences section.account .form fieldset input.autocomplete { width: 528px !important; }
+#widget-preferences section.account .form fieldset .tip-input-autocomplete { width: 548px !important; }
+#widget-preferences section.account .form fieldset .tip-input-autocomplete input.autocomplete { padding-left: 10px; width: 495px !important; }
+#widget-preferences section.account .form .cancel { display: block; height: 30px; text-align: right; }
+#widget-preferences section.account .form .send { width: 127px; height: 82px; float: right; font-size: 1.5em; }
+#widget-preferences section.account .form .send.disabled { background-image: url('/static/dashboard/img/ajax-loader.gif?e564737e52c78a3a9bbfa237746722ee'); background-repeat: no-repeat; background-position: 44px 28px; }
+#widget-preferences section.account .loading { display: none; }
+#widget-preferences section.create-account { /* in height calc consider this element padding, the title height + margin and the submit button */ height: 516px; width: 800px; position: absolute; z-index: 1; /* don't consider submit button in height calculation */ height: 611px; }
+#widget-preferences section.create-account .btn-submit.full { width: 100%; }
+#widget-preferences section.create-account a { color: #d65c94 !important; }
+#widget-preferences section.create-account .loading, #widget-preferences section.create-account .failure { display: none; }
+#widget-preferences section.create-account .failure div { -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); padding: 60px 20px; }
+#widget-preferences section.create-account .failure div h2 { font-size: 2.3em; }
+#widget-preferences section.create-account .failure div p { font-size: 2em; }
+#widget-preferences section.create-account fieldset { /* two inputs per row, so each input is half the available space, minus the separation between inputs and its padding */ }
+#widget-preferences section.create-account fieldset > input[type=text], #widget-preferences section.create-account fieldset > input[type=password] { float: left; width: 375px; margin-right: 10px; }
+#widget-preferences section.create-account fieldset:not(.fields-1) div.tip-input { /* won't let inputs override the container top pixels */ width: 375px; height: 36px; padding: 0px 10px; padding: 0px 4px 0px 10px; width: 381px; float: left; margin-right: 10px; }
+#widget-preferences section.create-account fieldset:not(.fields-1) div.tip-input::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences section.create-account fieldset:not(.fields-1) div.tip-input:-moz-placeholder { color: #d65c94; }
+#widget-preferences section.create-account fieldset:not(.fields-1) div.tip-input.placeholder { color: #d65c94; }
+#widget-preferences section.create-account fieldset:not(.fields-1) div.tip-input input[type=text], #widget-preferences section.create-account fieldset:not(.fields-1) div.tip-input input[type=password] { width: 395px; height: 28px; padding: 0 0; width: 341px; padding: 0; margin-top: 4px; }
+#widget-preferences section.create-account fieldset:not(.fields-1) div.tip-input input[type=text]::-webkit-input-placeholder, #widget-preferences section.create-account fieldset:not(.fields-1) div.tip-input input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences section.create-account fieldset:not(.fields-1) div.tip-input input[type=text]:-moz-placeholder, #widget-preferences section.create-account fieldset:not(.fields-1) div.tip-input input[type=password]:-moz-placeholder { color: #d65c94; }
+#widget-preferences section.create-account fieldset:not(.fields-1) div.tip-input input[type=text].placeholder, #widget-preferences section.create-account fieldset:not(.fields-1) div.tip-input input[type=password].placeholder { color: #d65c94; }
+#widget-preferences section.create-account fieldset:not(.fields-1) div.tip-input input[type=button] { width: 29px; height: 29px; line-height: 29px; margin: 4px 0 0 11px; padding: 0; }
+#widget-preferences section.create-account fieldset :nth-child(2n) { margin-right: 0 !important; }
+#widget-preferences section.create-account fieldset.fields-1 > input[type=text], #widget-preferences section.create-account fieldset.fields-1 > input[type=password] { width: 780px; }
+#widget-preferences section.create-account fieldset.fields-1 div.tip-input { /* won't let inputs override the container top pixels */ width: 780px; height: 36px; padding: 0px 10px; padding: 0px 4px 0px 10px; width: 786px; }
+#widget-preferences section.create-account fieldset.fields-1 div.tip-input::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences section.create-account fieldset.fields-1 div.tip-input:-moz-placeholder { color: #d65c94; }
+#widget-preferences section.create-account fieldset.fields-1 div.tip-input.placeholder { color: #d65c94; }
+#widget-preferences section.create-account fieldset.fields-1 div.tip-input input[type=text], #widget-preferences section.create-account fieldset.fields-1 div.tip-input input[type=password] { width: 800px; height: 28px; padding: 0 0; width: 746px; padding: 0; margin-top: 4px; }
+#widget-preferences section.create-account fieldset.fields-1 div.tip-input input[type=text]::-webkit-input-placeholder, #widget-preferences section.create-account fieldset.fields-1 div.tip-input input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences section.create-account fieldset.fields-1 div.tip-input input[type=text]:-moz-placeholder, #widget-preferences section.create-account fieldset.fields-1 div.tip-input input[type=password]:-moz-placeholder { color: #d65c94; }
+#widget-preferences section.create-account fieldset.fields-1 div.tip-input input[type=text].placeholder, #widget-preferences section.create-account fieldset.fields-1 div.tip-input input[type=password].placeholder { color: #d65c94; }
+#widget-preferences section.create-account fieldset.fields-1 div.tip-input input[type=button] { width: 29px; height: 29px; line-height: 29px; margin: 4px 0 0 11px; padding: 0; }
+#widget-preferences section.create-account .send { margin-top: 15px; }
+#widget-preferences section.content { overflow: visible; /* don't crop dropdowns */ }
+#widget-preferences section.content .scroller { height: 83%; overflow: auto; }
+#widget-preferences section.content .scroller::-webkit-scrollbar { width: 6px; }
+#widget-preferences section.content .scroller::-webkit-scrollbar-track { border-radius: 10px; background-color: rgba(255, 255, 255, 0.4); }
+#widget-preferences section.content .scroller::-webkit-scrollbar-thumb { border-radius: 10px; background-color: rgba(0, 0, 0, 0.5); }
+#widget-preferences section.content fieldset { /* don't apply the input style to chozen search */ }
+#widget-preferences section.content fieldset > input[type=text], #widget-preferences section.content fieldset > input[type=password] { width: 528px; height: 24px; padding: 6px 10px; }
+#widget-preferences section.content fieldset > input[type=text]::-webkit-input-placeholder, #widget-preferences section.content fieldset > input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences section.content fieldset > input[type=text]:-moz-placeholder, #widget-preferences section.content fieldset > input[type=password]:-moz-placeholder { color: #d65c94; }
+#widget-preferences section.content fieldset > input[type=text].placeholder, #widget-preferences section.content fieldset > input[type=password].placeholder { color: #d65c94; }
+#widget-preferences section.content fieldset div.tip-input { /* won't let inputs override the container top pixels */ width: 528px; height: 36px; padding: 0px 10px; padding: 0px 4px 0px 10px; width: 534px; }
+#widget-preferences section.content fieldset div.tip-input::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences section.content fieldset div.tip-input:-moz-placeholder { color: #d65c94; }
+#widget-preferences section.content fieldset div.tip-input.placeholder { color: #d65c94; }
+#widget-preferences section.content fieldset div.tip-input input[type=text], #widget-preferences section.content fieldset div.tip-input input[type=password] { width: 548px; height: 28px; padding: 0 0; width: 494px; padding: 0; margin-top: 4px; }
+#widget-preferences section.content fieldset div.tip-input input[type=text]::-webkit-input-placeholder, #widget-preferences section.content fieldset div.tip-input input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences section.content fieldset div.tip-input input[type=text]:-moz-placeholder, #widget-preferences section.content fieldset div.tip-input input[type=password]:-moz-placeholder { color: #d65c94; }
+#widget-preferences section.content fieldset div.tip-input input[type=text].placeholder, #widget-preferences section.content fieldset div.tip-input input[type=password].placeholder { color: #d65c94; }
+#widget-preferences section.content fieldset div.tip-input input[type=button] { width: 29px; height: 29px; line-height: 29px; margin: 4px 0 0 11px; padding: 0; }
+#widget-preferences section.content fieldset textarea { width: 528px; height: 78px; padding: 6px 10px; }
+#widget-preferences section.content fieldset textarea::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences section.content fieldset textarea:-moz-placeholder { color: #d65c94; }
+#widget-preferences section.content fieldset textarea.placeholder { color: #d65c94; }
+#widget-preferences section.content fieldset select { width: 548px; }
+#widget-preferences section.content fieldset input.autocomplete { width: 528px !important; }
+#widget-preferences section.content fieldset .tip-input-autocomplete { width: 548px !important; }
+#widget-preferences section.content fieldset .tip-input-autocomplete input.autocomplete { padding-left: 10px; width: 495px !important; }
+#widget-preferences section.appearance { padding: 20px; width: 705px; position: relative; overflow: visible!important; }
+#widget-preferences section.appearance a.edit { z-index: 20; padding: 6px 7px; background-color: #656053; border-radius: 7px; }
+#widget-preferences section.appearance a.edit:hover, #widget-preferences section.appearance a.edit.active { background-color: #cc0066; color: #FFF; }
+#widget-preferences section.appearance a.edit.error { background-color: #990000; -webkit-box-shadow: 0 0 10px #990000; box-shadow: 0 0 10px #990000; }
+#widget-preferences section.appearance .editor { position: relative; min-height: 390px; }
+#widget-preferences section.appearance .editor > fieldset { /* calculate the fieldset width as 6 columns + fieldset padding */ display: none; padding: 20px; padding-bottom: 20px; margin-left: 346px; background-color: #f2f2e7; border-radius: 5px; position: relative; max-width: 319px; }
+#widget-preferences section.appearance .editor > fieldset:after { content: ''; position: absolute; top: 34px; left: -10px; width: 0px; height: 0px; border-style: solid; border-width: 21.5px 10px 21.5px 0; border-color: transparent #f2f2e7 transparent transparent; -webkit-transform: rotate(360deg); }
+#widget-preferences section.appearance .editor > fieldset .title { display: block; text-transform: uppercase; padding-bottom: 8px; padding-top: 12px; color: #BFBEB2; }
+#widget-preferences section.appearance .editor > fieldset .title:first-of-type { padding-top: 0; }
+#widget-preferences section.appearance .editor > fieldset h3 { font-size: 1.7em; color: #999588; text-transform: none; padding: 15px; }
+#widget-preferences section.appearance .editor > fieldset input.field-subtitle { /* add 10 px of margin around the field */ width: 299px; height: 30px; padding: 6px 10px; background-color: #E8E9DC!important; }
+#widget-preferences section.appearance .editor > fieldset .send-value input, #widget-preferences section.appearance .editor > fieldset .send-value textarea { font-size: 1.25em; background-color: #E8E9DC !important; margin-bottom: 0px; }
+#widget-preferences section.appearance .editor > fieldset .send-value input::-webkit-input-placeholder, #widget-preferences section.appearance .editor > fieldset .send-value textarea::-webkit-input-placeholder { color: rgba(0, 0, 0, 0.3); }
+#widget-preferences section.appearance .editor > fieldset .send-value input:-moz-placeholder, #widget-preferences section.appearance .editor > fieldset .send-value textarea:-moz-placeholder { color: rgba(0, 0, 0, 0.3); }
+#widget-preferences section.appearance .editor > fieldset .send-value input.placeholder, #widget-preferences section.appearance .editor > fieldset .send-value textarea.placeholder { color: rgba(0, 0, 0, 0.3); }
+#widget-preferences section.appearance .editor > fieldset .send-value textarea { margin-bottom: 10px; }
+#widget-preferences section.appearance .editor > fieldset .send-value input { width: 200px; height: 23px; padding: 6px 10px; }
+#widget-preferences section.appearance .editor > fieldset .send-value textarea { width: 300px; height: 193px; padding: 6px 10px; font-size: 2.25em; color: rgba(101, 95, 82, 0.3); }
+#widget-preferences section.appearance .editor > fieldset .send-value .has-unit input { width: 160px; }
+#widget-preferences section.appearance .editor > fieldset .send-value .unit { font-size: 1.83333em; color: rgba(0, 0, 0, 0.3); margin-left: 4px; }
+#widget-preferences section.appearance .editor > fieldset .send-value fieldset:not(.image-data) { position: relative; }
+#widget-preferences section.appearance .editor > fieldset .send-value fieldset:not(.image-data) .button { position: absolute; top: 0; right: 0; }
+#widget-preferences section.appearance .editor > fieldset .send-value fieldset.image-data { position: static; }
+#widget-preferences section.appearance .editor > fieldset .send-value fieldset.image-data .button { float: right; }
+#widget-preferences section.appearance .editor > fieldset .send-value .fields-1 .button { height: 34px; width: 92px; line-height: 34px; }
+#widget-preferences section.appearance .editor > fieldset .send-value .fields-2 .button { height: 80px; width: 92px; line-height: 80px; }
+#widget-preferences section.appearance .editor > fieldset .send-value .fields-3 .button { height: 126px; width: 92px; line-height: 126px; }
+#widget-preferences section.appearance .editor > fieldset .send-value .fields-4 .button { height: 172px; width: 92px; line-height: 172px; }
+#widget-preferences section.appearance .editor > fieldset .send-value .fields-5 .button { height: 218px; width: 92px; line-height: 218px; }
+#widget-preferences section.appearance .editor > fieldset .send-value .fields-6 .button { height: 264px; width: 92px; line-height: 264px; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview { position: absolute; top: 0px; left: -346px; border-radius: 5px; width: 320px; height: 160px; overflow: hidden; background-color: transparent; -webkit-transition: background-color 0.2s; -moz-transition: background-color 0.2s; -o-transition: background-color 0.2s; transition: background-color 0.2s; -webkit-box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5); box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5); }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview:after { content: ''; position: absolute; left: 0; top: 0; border: 10px solid rgba(255, 255, 255, 0.3); border-radius: 5px; width: 100%; height: 100%; z-index: 15; pointer-events: none; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview.is_almost_finished .upload-bar { border-radius: 5px; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview.is_almost_finished .cancel { display: none!important; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview.is_uploading { background-color: #E6E6DA; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview.is_uploading .cancel { display: inline-block; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview.is_uploading .file { display: none; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .cancel, #widget-preferences section.appearance .editor > fieldset .send-value .preview .file label { padding: 6px 7px; background-color: #cc0066; border-radius: 7px; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .cancel:hover, #widget-preferences section.appearance .editor > fieldset .send-value .preview .cancel.active, #widget-preferences section.appearance .editor > fieldset .send-value .preview .file label:hover, #widget-preferences section.appearance .editor > fieldset .send-value .preview .file label.active { background-color: #cc0066; color: #FFF; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .file, #widget-preferences section.appearance .editor > fieldset .send-value .preview .cancel { position: absolute; cursor: pointer; z-index: 19; max-width: 124px; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .file input, #widget-preferences section.appearance .editor > fieldset .send-value .preview .cancel input { background: transparent; opacity: 0; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .cancel { bottom: 15px; right: 15px; width: auto; height: auto; line-height: 1; display: none; float: none; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .file { right: 0px; bottom: 16px; padding: 0; margin: 0; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .file input { padding: 0; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .img-preview-wrap, #widget-preferences section.appearance .editor > fieldset .send-value .preview .loading, #widget-preferences section.appearance .editor > fieldset .send-value .preview .error { border-radius: 5px; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .img-preview-wrap, #widget-preferences section.appearance .editor > fieldset .send-value .preview .upload-bar, #widget-preferences section.appearance .editor > fieldset .send-value .preview .loading { position: absolute; width: 100%; height: 100%; left: 0; top: 0; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .img-preview-wrap .new { opacity: 0; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .upload-bar { display: block !important; z-index: 3; bottom: 0 !important; top: auto !important; height: 0%; color: #FFF; text-align: center; font-size: 1.5em; background: #99968A; border-radius: 0px 0px 3px 3px; -webkit-transition: height 0.2s ease, 0.2s opacity ease; -moz-transition: height 0.2s ease, 0.2s opacity ease; -o-transition: height 0.2s ease, 0.2s opacity ease; transition: height 0.2s ease, 0.2s opacity ease; opacity: 1; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .upload-bar.visible { opacity: 1; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .upload-bar.hidden { height: 0%; opacity: 0; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .upload-bar span { margin-top: 20px; display: inline-block; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .loading { z-index: 4; top: 0; height: 100%; display: none; background: url('/static/dashboard/img/ajax-loader.gif?e564737e52c78a3a9bbfa237746722ee') center no-repeat; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .caption { position: absolute; z-index: 11; top: 100%; width: 80%; margin-left: 10%; color: #FFF; text-transform: none; font-size: 1.41667em; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .error { padding: 20px; font-size: 1.1em; }
+#widget-preferences section.appearance .editor > fieldset .send-value .preview .error a { display: inline-block; position: static; right: auto; bottom: auto; padding-top: 7px; text-align: left; }
+#widget-preferences section.appearance .editor > fieldset .color_picker li { position: relative; float: left; width: 49px; height: 30px; margin-right: 5px; margin-bottom: 5px; }
+#widget-preferences section.appearance .editor > fieldset .color_picker li:after { content: ''; position: absolute; width: 100%; height: 100%; top: -4px; left: -4px; }
+#widget-preferences section.appearance .editor > fieldset .color_picker li:nth-child(6n + 6) { margin-right: 0; }
+#widget-preferences section.appearance .editor > fieldset .color_picker li.ui-selected:after { border: 4px solid #cc0066; }
+#widget-preferences section.appearance .editor > fieldset .color_picker li span { position: relative; display: block; width: 49px; height: 30px; }
+#widget-preferences section.appearance .editor > fieldset .m-editable-url { height: 24px; padding: 6px; margin-bottom: 6px; text-transform: none; overflow: hidden; }
+#widget-preferences section.appearance .editor > fieldset .m-editable-url .index { display: none; }
+#widget-preferences section.appearance .editor > fieldset .m-editable-url .url { float: left; line-height: 24px; overflow: hidden; white-space: nowrap; font-size: 1em; padding-left: 4px; }
+#widget-preferences section.appearance .editor > fieldset .m-editable-url .label { font-size: 1em; }
+#widget-preferences section.appearance .editor > fieldset .m-editable-url .more { width: 24px; height: 24px; display: none; margin-left: 3px; background-color: #999588; border-radius: 3px; }
+#widget-preferences section.appearance .editor > fieldset .m-editable-url fieldset { display: none; }
+#widget-preferences section.appearance .editor > fieldset .m-editable-url fieldset .field-label { width: 253px; height: 20px; padding: 2px 10px; background-color: #E8E9DC; margin-left: 0; font-size: 1.25em; border-radius: 3px; }
+#widget-preferences section.appearance .editor > fieldset .m-editable-url fieldset .field-label::-webkit-input-placeholder { color: #d65c94; }
+#widget-preferences section.appearance .editor > fieldset .m-editable-url fieldset .field-label:-moz-placeholder { color: #d65c94; }
+#widget-preferences section.appearance .editor > fieldset .m-editable-url fieldset .field-label.placeholder { color: #d65c94; }
+#widget-preferences section.appearance .editor > fieldset .m-editable-url fieldset .cancel { width: 24px; height: 24px; float: right; clear: both; padding: 0; background-color: #999588; font-size: 0.8em; text-transform: uppercase; border-radius: 3px; }
+#widget-preferences section.appearance .editor.is_uploading .edit { display: none!important; }
+#widget-preferences section.appearance .editor.custom_image .send-value .preview { background-color: transparent; top: 55px; left: -321px; border-radius: 0; -webkit-box-shadow: none; box-shadow: none; }
+#widget-preferences section.appearance .editor.custom_image .send-value .preview, #widget-preferences section.appearance .editor.custom_image .send-value .preview .img-preview-wrap, #widget-preferences section.appearance .editor.custom_image .send-value .preview .img-preview-wrap img { width: 270px; height: 168px; }
+#widget-preferences section.appearance .editor.custom_image .send-value .preview:after { content: none; }
+#widget-preferences section.appearance .editor.custom_image .send-value .preview .img-preview-wrap { display: block; }
+#widget-preferences section.appearance .editor.custom_image .send-value .preview .img-preview-wrap, #widget-preferences section.appearance .editor.custom_image .send-value .preview .upload-bar { border-radius: 0 !important; }
+#widget-preferences section.appearance .editor.custom_image .send-value .preview .file { bottom: 8px; max-width: 115px; }
+#widget-preferences section.appearance .editor.custom_image .send-value .preview .cancel { bottom: 6px; right: 7px; }
+#widget-preferences section.appearance .editor.custom_image .send-value .preview .error { border-radius: 0; }
+#widget-preferences section.appearance .extras { position: absolute; bottom: 20px; }
+#widget-preferences section.appearance .extras .title { display: block; padding-bottom: 5px; text-transform: uppercase; color: #656053; }
+#widget-preferences section.appearance .extras a.docs { text-transform: uppercase; float: right; }
+#widget-preferences section.appearance .extras .timespan, #widget-preferences section.appearance .extras .api-key { float: left; }
+#widget-preferences section.appearance .extras .timespan { margin-right: 20px; }
+#widget-preferences section.appearance .extras .timespan .timespans-dropdown .chzn-container { /* default chosen height */ /* adjust height and the arrow position */ margin-bottom: 0; }
+#widget-preferences section.appearance .extras .timespan .timespans-dropdown .chzn-container .chzn-single { /* substract border size from height */ height: 57px; line-height: 57px; }
+#widget-preferences section.appearance .extras .timespan .timespans-dropdown .chzn-container .chzn-single b { background-position: 6px 17px; }
+#widget-preferences section.appearance .extras .timespan .timespans-dropdown .chzn-container .chzn-single-with-drop b { background-position: -13px 17px; }
+#widget-preferences section.appearance .extras .timespan .timespans-dropdown select { height: 59px; width: 197px; }
+#widget-preferences section.appearance .extras .api-key { overflow: hidden; width: 705px; }
+#widget-preferences section.appearance .extras .api-key .title { float: left; }
+#widget-preferences section.appearance .extras .api-key input { clear: both; text-align: center; width: 685px; height: 47px; padding: 6px 10px; font-size: 1.41667em !important; color: rgba(101, 96, 83, 0.4) !important; margin-bottom: 0; }
+#widget-preferences section.appearance .extras.has_timespans .api-key { width: 487px; }
+#widget-preferences section.appearance .extras.has_timespans .api-key input { width: 467px; height: 47px; padding: 6px 10px; }
+#widget-preferences section.advanced .scroller { height: 83%; width: 100%; padding-right: 6px; overflow: auto; }
+#widget-preferences section.advanced .scroller::-webkit-scrollbar { width: 6px; }
+#widget-preferences section.advanced .scroller::-webkit-scrollbar-track { border-radius: 10px; background-color: rgba(255, 255, 255, 0.4); }
+#widget-preferences section.advanced .scroller::-webkit-scrollbar-thumb { border-radius: 10px; background-color: rgba(0, 0, 0, 0.5); }
+#widget-preferences section.advanced .subsections > li.panicboard-embed .mod-embed { background-image: url('/static/dashboard/img/extras/panic_board.png?78e1ea1296455aa0a499191c08ff0fd9'); background-repeat: no-repeat; background-position: 10px 10px; }
+#widget-preferences section.advanced .subsections > li.panicboard-embed .mod-embed .snippet .actions .btn { width: 211px; }
+#widget-preferences section.notifications .title { display: block; margin-bottom: 8px; }
+#widget-preferences section.notifications .back { display: inline-block; margin-bottom: 16px; }
+#widget-preferences section.notifications .actions { text-align: right; }
+#widget-preferences section.notifications .failure, #widget-preferences section.notifications .upgrade { margin: 20px 0; }
+#widget-preferences section.notifications .failure > div, #widget-preferences section.notifications .upgrade > div { padding-top: 30px; padding-bottom: 30px; }
+#widget-preferences section.notifications .button-new i { font-size: 27px; }
+#widget-preferences section.notifications .button-new span { width: 60px; }
+#widget-preferences section.notifications.loading { background-image: url('/static/dashboard/img/modal-ajax-loader.gif?250ecadb6a0563661974cf4d7cedc7fd'); background-repeat: no-repeat; background-position: center center; }
+#widget-preferences .failure, #widget-preferences .upgrade { display: none; }
+#widget-preferences .failure div, #widget-preferences .upgrade div { padding: 60px 20px; background-color: #990000; border-radius: 5px; -webkit-box-shadow: 0 0 10px #aba89c; box-shadow: 0 0 10px #aba89c; }
+#widget-preferences .failure div h2, #widget-preferences .upgrade div h2 { color: white; margin-bottom: 20px; }
+#widget-preferences .failure div p, #widget-preferences .upgrade div p { font-size: 24px; color: #d69999; text-transform: none; margin-bottom: 10px; }
+#widget-preferences .failure div a, #widget-preferences .upgrade div a { color: yellow; }
+#widget-preferences .failure div a:hover, #widget-preferences .upgrade div a:hover { color: yellow!important; }
+
+.ipad #widget-preferences section.advanced .subsections > li .mod-embed .snippet input, .iphone #widget-preferences section.advanced .subsections > li .mod-embed .snippet input { -webkit-text-fill-color: #655f52; }
+
+#widget-preferences.service { width: 860px; height: 575px; }
+#widget-preferences.service div.pane { width: 745px; }
+#widget-preferences.service div.pane > section { height: 361px; }
+#widget-preferences.service section.pane { height: 361px; }
+#widget-preferences.service section.appearance { height: 381px; }
+#widget-preferences.service div.feedback .form textarea { height: 231px; }
+#widget-preferences.service section.create-account { height: 456px; }
+
+.timespans-dropdown li { display: inline-block; margin-left: 1.16667em; margin-top: 1.58333em; }
+
+.m-notification { background-color: rgba(242, 242, 231, 0.8); border-radius: 5px; padding: 0.41667em 0.41667em 0.41667em 0.66667em; position: relative; }
+.m-notification.disabled { background-color: rgba(242, 242, 231, 0.3); }
+.m-notification.disabled .actions { display: none; }
+.m-notification > div:first-child { float: left; width: 60%; }
+.m-notification > div.actions { float: right; text-align: right; }
+.moz .m-notification p { line-height: 1.02em; }
+.m-notification p { font-size: 1.25em; text-transform: none; color: rgba(101, 96, 83, 0.6); line-height: 1.15em; }
+.m-notification p .clause { width: 2.4em; color: rgba(182, 179, 169, 0.6); margin-right: 6px; vertical-align: top; }
+.m-notification p .condition { color: rgba(101, 96, 83, 0.6); width: 330px; text-overflow: ellipsis; white-space: nowrap; display: inline-block; overflow: hidden; }
+.m-notification p .type { height: 15px; line-height: 19px; vertical-align: top !important; }
+.m-notification p .type:before { vertical-align: top !important; }
+.m-notification p .type.webhook { background: transparent url('/static/dashboard/img/svg/ico-webhooks.svg?1908077cbeccf1de0f25e418efee5e3c') no-repeat; background-size: 16px; text-indent: -9999em; text-align: left; overflow: hidden; display: inline-block; width: 16px; height: 14px; margin-top: 1px; }
+.m-notification > .actions a { float: right; margin-left: 5px; }
+.m-notification > .actions .btn-light { background-color: rgba(212, 212, 201, 0.6) !important; }
+.m-notification > .actions .btn-light span:before { opacity: 0.6 !important; }
+.m-notification > .actions .btn-light:hover { background-color: #cc0066 !important; }
+.m-notification > .actions .btn-light:hover span:before { opacity: 1 !important; }
+
+.m-notifications-list .slidster { padding: 0; }
+.m-notifications-list .slidster .viewport { margin-bottom: 10px; }
+.m-notifications-list .slidster .viewport:after, .m-notifications-list .slidster .viewport:before { content: none; }
+.m-notifications-list .slidster .viewport ul > li { width: 685px; }
+.m-notifications-list .slidster .pager-info { text-transform: lowercase; color: rgba(145, 145, 139, 0.6); }
+.m-notifications-list .slidster .pager-info .current, .m-notifications-list .slidster .pager-info .total { display: inline; }
+.m-notifications-list .m-notification { margin-bottom: 0.83333em; }
+
+.m-notification-form { background-color: rgba(242, 242, 231, 0.8); padding: 20px; border-radius: 5px; position: relative; margin-bottom: 20px; }
+.m-notification-form .chzn-container > a { padding-left: 0; font-size: 12px; }
+.m-notification-form input[type="text"]:not(.chzn-input) { color: #655F52 !important; }
+.m-notification-form .if select, .m-notification-form .then select { width: 140px; }
+.m-notification-form .if strong, .m-notification-form .then strong { display: inline-block; width: 94px; text-transform: lowercase; font-size: 2.25em; }
+.m-notification-form .if .condition-params, .m-notification-form .if .action-params, .m-notification-form .then .condition-params, .m-notification-form .then .action-params { display: inline-block; vertical-align: top; }
+.m-notification-form .if strong, .m-notification-form .if .chzn-container, .m-notification-form .then strong, .m-notification-form .then .chzn-container { margin-right: 10px; }
+.m-notification-form .if .condition-params, .m-notification-form .if input[type="text"]:not(.chzn-input) { width: 120px !important; }
+.m-notification-form .then .condition-params, .m-notification-form .then input[type="text"]:not(.chzn-input) { width: 270px !important; }
+.m-notification-form .then input, .m-notification-form .then .chzn-container { margin-bottom: 0 !important; }
+.m-notification-form button { height: 83px; width: 92px; line-height: 83px; position: absolute; right: 20px; top: 20px; border: none; font-size: 11px; line-height: 15px!important; font-weight: bold; padding: 0; }
+
+/* High specificity rules are needed to win the inherited styles declared from
+modals... */
+#widget-preferences section.pane input[type="text"]:not(.chzn-input).error { background-color: #990000 !important; font-size: 12px; }
+
+#widget-preferences section.notifications .server-error { display: none; }
+#widget-preferences section.notifications .server-error span { color: #990000; }
+
+#support-ticket, #integration-ticket { /* this is being calculated in different places because some inheriters need the values to perform calculations, and less has not accessors anymore */ width: 765px; height: 490px; /* we want all inputs to look the same EXCEPT chozen search */ }
+#support-ticket div.pane, #integration-ticket div.pane { width: 650px; }
+#support-ticket div.pane > section, #integration-ticket div.pane > section { /* in height calc consider this element padding, the title height + margin and the submit button */ height: 276px; width: 705px; width: 590px; }
+#support-ticket section.pane, #integration-ticket section.pane { /* in height calc consider this element padding, the title height + margin and the submit button */ height: 276px; width: 705px; width: 590px; }
+#support-ticket input[type=text]:not(.chzn-input), #support-ticket input[type=password]:not(.chzn-input), #integration-ticket input[type=text]:not(.chzn-input), #integration-ticket input[type=password]:not(.chzn-input) { width: 570px; height: 24px; padding: 6px 10px; }
+#support-ticket input[type=text]:not(.chzn-input)::-webkit-input-placeholder, #support-ticket input[type=password]:not(.chzn-input)::-webkit-input-placeholder, #integration-ticket input[type=text]:not(.chzn-input)::-webkit-input-placeholder, #integration-ticket input[type=password]:not(.chzn-input)::-webkit-input-placeholder { color: #d65c94; }
+#support-ticket input[type=text]:not(.chzn-input):-moz-placeholder, #support-ticket input[type=password]:not(.chzn-input):-moz-placeholder, #integration-ticket input[type=text]:not(.chzn-input):-moz-placeholder, #integration-ticket input[type=password]:not(.chzn-input):-moz-placeholder { color: #d65c94; }
+#support-ticket input[type=text]:not(.chzn-input).placeholder, #support-ticket input[type=password]:not(.chzn-input).placeholder, #integration-ticket input[type=text]:not(.chzn-input).placeholder, #integration-ticket input[type=password]:not(.chzn-input).placeholder { color: #d65c94; }
+#support-ticket div.tip-input, #integration-ticket div.tip-input { /* won't let inputs override the container top pixels */ width: 570px; height: 36px; padding: 0px 10px; padding: 0px 4px 0px 10px; width: 576px; }
+#support-ticket div.tip-input::-webkit-input-placeholder, #integration-ticket div.tip-input::-webkit-input-placeholder { color: #d65c94; }
+#support-ticket div.tip-input:-moz-placeholder, #integration-ticket div.tip-input:-moz-placeholder { color: #d65c94; }
+#support-ticket div.tip-input.placeholder, #integration-ticket div.tip-input.placeholder { color: #d65c94; }
+#support-ticket div.tip-input input[type=text], #support-ticket div.tip-input input[type=password], #integration-ticket div.tip-input input[type=text], #integration-ticket div.tip-input input[type=password] { width: 590px; height: 28px; padding: 0 0; width: 536px; padding: 0; margin-top: 4px; }
+#support-ticket div.tip-input input[type=text]::-webkit-input-placeholder, #support-ticket div.tip-input input[type=password]::-webkit-input-placeholder, #integration-ticket div.tip-input input[type=text]::-webkit-input-placeholder, #integration-ticket div.tip-input input[type=password]::-webkit-input-placeholder { color: #d65c94; }
+#support-ticket div.tip-input input[type=text]:-moz-placeholder, #support-ticket div.tip-input input[type=password]:-moz-placeholder, #integration-ticket div.tip-input input[type=text]:-moz-placeholder, #integration-ticket div.tip-input input[type=password]:-moz-placeholder { color: #d65c94; }
+#support-ticket div.tip-input input[type=text].placeholder, #support-ticket div.tip-input input[type=password].placeholder, #integration-ticket div.tip-input input[type=text].placeholder, #integration-ticket div.tip-input input[type=password].placeholder { color: #d65c94; }
+#support-ticket div.tip-input input[type=button], #integration-ticket div.tip-input input[type=button] { width: 29px; height: 29px; line-height: 29px; margin: 4px 0 0 11px; padding: 0; }
+#support-ticket section, #integration-ticket section { height: 351px; }
+#support-ticket section .form textarea, #integration-ticket section .form textarea { width: 745px; height: 319px; padding: 6px 10px; }
+#support-ticket section .form textarea::-webkit-input-placeholder, #integration-ticket section .form textarea::-webkit-input-placeholder { color: #d65c94; }
+#support-ticket section .form textarea:-moz-placeholder, #integration-ticket section .form textarea:-moz-placeholder { color: #d65c94; }
+#support-ticket section .form textarea.placeholder, #integration-ticket section .form textarea.placeholder { color: #d65c94; }
+#support-ticket section .sent, #integration-ticket section .sent { display: none; }
+#support-ticket section .sent h1, #integration-ticket section .sent h1 { font-size: 2.25em; text-transform: none; }
