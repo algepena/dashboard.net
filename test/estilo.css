@@ -1,10 +1,10 @@
 @charset "utf-8";
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; font: inherit; vertical-align: baseline; }
 /** 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 			OPCIONES GENERALES
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++		
 **/
-html{ border:0px solid #a1a1a1;}
 
 body { 	font-size: 10px; 
 		font-family: "Trebuchet MS", "Helvetica", "Arial",  "Verdana", "sans-serif"; 
@@ -16,16 +16,21 @@ body { 	font-size: 10px;
 			eSTILOS DE MENUS Y BOTONES
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++		
 **/
-body > menu { display: none; position: relative; z-index: 10; padding: 8px 0; height: 40px; background-color: rgba(255, 255, 255, 0.2); -webkit-transition: opacity 0.6s, height 0.6s; -moz-transition: opacity 0.6s, height 0.6s; -o-transition: opacity 0.6s, height 0.6s; transition: opacity 0.6s, height 0.6s; }
+#menu_prin { 
+    background-color: rgba(255, 255, 255, 0.2);
+    height: 50px;
+    width: 100%;
+}
 
 #btnAdd { 
-	background-color: rgba(0, 0, 0, 0.3);	
-	border-radius: 5px; 
-	width: 40px;
-	height: 40px;
-	text-transform: uppercase; 
-	position: relative; 	
-	margin-left: 10%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 5px 5px 5px 5px;
+    height: 40px;
+    margin-left: 10%;
+    position: relative;
+    text-transform: uppercase;
+    top: 5px;
+    width: 40px;
 }
 
 #btnAdd:hover { 
@@ -33,13 +38,12 @@ body > menu { display: none; position: relative; z-index: 10; padding: 8px 0; he
 }
 
 #btnMain{
-	opacity: 0.6;
-	position: absolute;
-	right: 26%;
-	text-transform: uppercase;
-	top: 15px;
-	width: 40px;
-}
+    height: 40px;
+    position: absolute;
+    right: 10%;
+    text-transform: uppercase;
+    top: 7px;
+    }
 
 .icon-plus{
 	background-image: url("icons/add.png");
@@ -53,25 +57,31 @@ body > menu { display: none; position: relative; z-index: 10; padding: 8px 0; he
 	width: 25px;
 }
 
+::selection {
+    background: transparent; 
+}
+
+::-moz-selection {
+    background: transparent; 
+}
+
 .wrapper-dropdown-1 {
-    /* Size and position */
-    position: relative; /* Enable absolute positionning for children and pseudo elements */
-    width: 200px;
-    padding: 10px;
-    margin: 0 auto;
-	text-transform: uppercase;
-    /* Styles */
-    background-color: rgba(0, 0, 0, 0.6);	
-    color: #fff;
-    outline: none;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 5px 5px 5px 5px;
+    color: #FFFFFF;
     cursor: pointer;
-	border-radius: 5px; 
-    /* Font settings */
     font-weight: bold;
+    height: 15px;
+    margin: 0 auto;
+    outline: medium none;
+    padding: 10px;
+    position: relative;
+    text-transform: uppercase;
+    width: 270px;
 }
 
 .wrapper-dropdown-1:after {
-	opacity: 0.6;
+	opacity: 0.3;
     content: "";
     width: 0;
     height: 0;
@@ -90,36 +100,45 @@ body > menu { display: none; position: relative; z-index: 10; padding: 8px 0; he
     top: 100%;
     left: 0;
     right: 0;
-
     /* Styles */
-    background: #fff;
+    background: #DEDEDE;
     list-style: none;
     font-weight: normal; /*Cancels previous font-weight: bold; */
     /* Hiding */
     opacity: 0;
-    pointer-events: none;
+    pointer-events: none;    
+    border-radius: 5px 5px 5px 5px;
 }
-/*
+
+.wrapper-dropdown-1 .dropdown li {
+    background: #F0EEF0;
+    padding: 5px; 
+}
+
 .wrapper-dropdown-1 .dropdown li a {
+    font-weight: bold;
+    border-radius: 5px 5px 5px 5px;
+    color: #6E596B;
     display: block;
+    padding: 15px;
     text-decoration: none;
-    color: #9e9e9e;
-    padding: 10px 20px;
+    background: #DCD9DB;
 }
 
-// Hover state 
 .wrapper-dropdown-1 .dropdown li:hover a {
-    background: #f3f8f8;
+    font-weight: bold;
+    background: #AD0891;
+    color: #FFFFFF;
 }
 
-// Active state 
+
 .wrapper-dropdown-1.active .dropdown {
     opacity: 1;
     pointer-events: auto;
 }
 
 .wrapper-dropdown-1.active:after {
-    border-color: #9bc7de transparent;
+    border-color: #AD0891 transparent;
     border-width: 6px 6px 0 6px ;
     margin-top: -3px;
 }
@@ -135,8 +154,6 @@ body > menu { display: none; position: relative; z-index: 10; padding: 8px 0; he
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9bc7de', endColorstr='#ffffff',GradientType=1 );
 }
 
-// No CSS3 support 
-
 .no-opacity       .wrapper-dropdown-1 .dropdown,
 .no-pointerevents .wrapper-dropdown-1 .dropdown {
     display: none;
@@ -147,4 +164,4 @@ body > menu { display: none; position: relative; z-index: 10; padding: 8px 0; he
 .no-opacity       .wrapper-dropdown-1.active .dropdown,
 .no-pointerevents .wrapper-dropdown-1.active .dropdown {
     display: block;
-}*/
+}
